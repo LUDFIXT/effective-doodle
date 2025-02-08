@@ -98,3 +98,5 @@ Latest Version: v1.17.8-BETA
 [21:24:19] [Craft Scheduler Thread - 2 - Kingdoms/INFO]: [Kingdoms] Loading lands data...
 [21:24:19] [Craft Scheduler Thread - 2 - Kingdoms/INFO]: [Kingdoms] Done, loaded a total of 0 lands. Took 0ms
 [21:24:19] [Craft Scheduler Thread - 2 - Kingdoms/INFO]: [KingdomsX] Updating top kingdoms... 0
+[21:54:18] [Craft Scheduler Thread - 126 - Kingdoms/INFO]: [Kingdoms] Auto saving... Checking 0 nations, 0 kingdoms, 0 lands and 0 players.
+[21:54:19] [Craft Scheduler Thread - 126 - Kingdoms/INFO]: [KingdomsX] Updating top kingdoms... 0
