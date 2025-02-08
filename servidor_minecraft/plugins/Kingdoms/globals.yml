@@ -1,0 +1,7 @@
+config-migration:
+  last-fresh-version: 1.16.20.5
+updates:
+  languages:
+prolonged-tasks:
+  elections: 1739048030608
+  daily-checks: 1739048102883
