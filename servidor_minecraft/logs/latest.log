@@ -105,3 +105,6 @@ Latest Version: v1.17.8-BETA
 [01:17:20] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
 [01:19:34] [Server thread/INFO]: Villager EntityVillager['Nitwit'/226, uuid='b3493981-90e2-4d8c-85eb-54d6e5e3d40d', l='ServerLevel[world]', x=123.03, y=114.00, z=72.51, cpos=[7, 4], tl=93442, v=true] died, message: 'Nitwit was slain by Zombie'
 [01:23:21] [Server thread/INFO]: _LUDFIXT_ has made the advancement [Into Fire]
+[01:32:42] [Server thread/INFO]: _LUDFIXT_ issued server command: /k claim
+[01:32:46] [Server thread/INFO]: _LUDFIXT_ issued server command: /k unclaim
+[01:32:52] [Server thread/INFO]: _LUDFIXT_ issued server command: /k unclaim
