@@ -166,3 +166,41 @@ Latest Version: v1.17.8-BETA
 [00:33:09] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Spectator Mode]
 [00:33:11] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC
 [00:33:11] [Server thread/INFO]: [_LUDFIXT_: Teleported _LUDFIXT_ to NormalyMC]
+[00:33:48] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC
+[00:33:48] [Server thread/INFO]: [_LUDFIXT_: Teleported _LUDFIXT_ to NormalyMC]
+[00:35:00] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC
+[00:35:00] [Server thread/INFO]: [_LUDFIXT_: Teleported _LUDFIXT_ to NormalyMC]
+[00:35:23] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode survival
+[00:35:23] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Survival Mode]
+[00:35:24] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode creative
+[00:35:24] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Creative Mode]
+[00:35:31] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode spectator
+[00:35:31] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Spectator Mode]
+[00:35:35] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode creative
+[00:35:35] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Creative Mode]
+[00:35:41] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode spectator
+[00:35:41] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Spectator Mode]
+[00:38:29] [Server thread/INFO]: NormalyMC has made the advancement [Isn't It Iron Pick]
+[00:39:47] [Server thread/INFO]: NormalyMC has made the advancement [Diamonds!]
+[00:40:08] [User Authenticator #1/INFO]: UUID of player brosky143 is ee5d6d00-3ac7-3110-9dcf-91b2d20683ba
+[00:40:08] [Server thread/INFO]: brosky143[/[0:0:0:0:0:0:0:1%0]:47724] logged in with entity id 3283 at ([world]0.5, 111.0, 2.5)
+[00:40:09] [Craft Scheduler Thread - 13 - Kingdoms/INFO]: brosky143 has joined the server.
+[00:40:15] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp brosky143
+[00:40:15] [Server thread/INFO]: [_LUDFIXT_: Teleported _LUDFIXT_ to brosky143]
+[00:40:47] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode survival brosky143
+[00:41:14] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode survival brosky143
+[00:41:18] [Async Chat Thread - #1/INFO]: [G] NormalyMC ≫ yisus
+[00:41:24] [Async Chat Thread - #1/INFO]: [G] brosky143 ≫ q paso
+[00:41:27] [Async Chat Thread - #1/INFO]: [G] NormalyMC ≫ aya
+[00:41:32] [Async Chat Thread - #1/INFO]: [G] NormalyMC ≫ estaba verificando
+[00:41:42] [Async Chat Thread - #1/INFO]: [G] brosky143 ≫ no puedo romper nada
+[00:41:52] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode survival brosky143
+[00:41:59] [Async Chat Thread - #1/INFO]: [G]|[♚ prueba] _LUDFIXT_ ≫ no puedes romper nada?
+[00:42:04] [Async Chat Thread - #1/INFO]: [G] brosky143 ≫ no
+[00:42:10] [Async Chat Thread - #1/INFO]: [G] brosky143 ≫ ya puedo
+[00:42:12] [Async Chat Thread - #1/INFO]: [G]|[♚ prueba] _LUDFIXT_ ≫ ok ok
+[00:42:18] [Async Chat Thread - #1/INFO]: [G] brosky143 ≫ ok gracias
+[00:42:20] [Async Chat Thread - #1/INFO]: [G]|[♚ prueba] _LUDFIXT_ ≫ lee lo que hay en el cofre
+[00:42:45] [Async Chat Thread - #1/INFO]: [G]|[♚ prueba] _LUDFIXT_ ≫ seguramente es la proteccion del spawn
+[00:43:00] [Async Chat Thread - #1/INFO]: [G]|[♚ prueba] _LUDFIXT_ ≫ brosky143
+[00:43:05] [Async Chat Thread - #1/INFO]: [G]|[♚ prueba] _LUDFIXT_ ≫ seguramente es la proteccion del spawn

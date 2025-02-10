@@ -17,7 +17,8 @@
       "minecraft:ocean": "2025-02-10 00:01:47 +0000",
       "minecraft:river": "2025-02-09 23:55:10 +0000",
       "minecraft:meadow": "2025-02-09 23:47:57 +0000",
-      "minecraft:birch_forest": "2025-02-10 00:02:00 +0000"
+      "minecraft:birch_forest": "2025-02-10 00:02:00 +0000",
+      "minecraft:lush_caves": "2025-02-10 00:33:45 +0000"
     },
     "done": false
   },
@@ -604,6 +605,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-02-10 00:38:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
       "has_sandstone": "2025-02-10 00:25:40 +0000"
@@ -613,6 +620,12 @@
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2025-02-10 00:27:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-02-10 00:38:29 +0000"
     },
     "done": true
   },
@@ -628,9 +641,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-02-10 00:38:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-02-10 00:27:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-02-10 00:38:29 +0000"
     },
     "done": true
   },
@@ -730,6 +755,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-02-10 00:38:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2025-02-10 00:27:36 +0000"
@@ -793,6 +824,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-02-10 00:27:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-02-10 00:31:35 +0000"
     },
     "done": true
   },
@@ -865,6 +902,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-02-10 00:26:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-02-10 00:38:29 +0000"
     },
     "done": true
   },
