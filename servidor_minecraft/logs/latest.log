@@ -1,36 +1,168 @@
-[00:00:28] [User Authenticator #3/INFO]: UUID of player NormalyMC is 02c11b1c-41b7-3a20-ae93-3a10dbf5cc38
-[00:00:29] [Server thread/INFO]: NormalyMC[/[0:0:0:0:0:0:0:1%0]:47130] logged in with entity id 4666 at ([world]-864.3704229483595, 62.11076428890229, -199.60983361350668)
-[00:00:30] [Craft Scheduler Thread - 47 - Kingdoms/INFO]: NormalyMC has joined the server.
-[00:00:40] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC
-[00:00:40] [Server thread/INFO]: [_LUDFIXT_: Teleported _LUDFIXT_ to NormalyMC]
-[00:00:58] [Server thread/INFO]: _LUDFIXT_ issued server command: /kick NormalyMC hacks, antiKB, redlox is bot, fr, kakota, fly hacks, combat cheats
-[00:00:58] [Server thread/INFO]: NormalyMC lost connection: hacks, antiKB, redlox is bot, fr, kakota, fly hacks, combat cheats
-[00:00:58] [Server thread/INFO]: NormalyMC has left the server.
-[00:00:58] [Server thread/INFO]: [_LUDFIXT_: Kicked NormalyMC: hacks, antiKB, redlox is bot, fr, kakota, fly hacks, combat cheats]
-[00:01:02] [User Authenticator #3/INFO]: UUID of player NormalyMC is 02c11b1c-41b7-3a20-ae93-3a10dbf5cc38
-[00:01:02] [Server thread/INFO]: NormalyMC[/[0:0:0:0:0:0:0:1%0]:51214] logged in with entity id 4762 at ([world]-879.5759360771887, 62.11076428890229, -201.7732900723954)
-[00:01:03] [Craft Scheduler Thread - 47 - Kingdoms/INFO]: NormalyMC has joined the server.
-[00:02:00] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC
-[00:02:00] [Server thread/INFO]: [_LUDFIXT_: Teleported _LUDFIXT_ to NormalyMC]
-[00:03:17] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC
-[00:03:17] [Server thread/INFO]: [_LUDFIXT_: Teleported _LUDFIXT_ to NormalyMC]
-[00:03:33] [Server thread/INFO]: NormalyMC has made the advancement [Stone Age]
-[00:04:07] [Server thread/INFO]: NormalyMC has made the advancement [Getting an Upgrade]
-[00:04:47] [Async Chat Thread - #4/INFO]: [G]|[♚ prueba] _LUDFIXT_ ≫ redlox
-[00:04:50] [Async Chat Thread - #4/INFO]: [G]|[♚ prueba] _LUDFIXT_ ≫ habla pe
-[00:07:06] [Async Chat Thread - #6/INFO]: [G]|[♚ prueba] _LUDFIXT_ ≫ 30 de hierro = pico de netherite 32 de hierro = encantamiento de reparacion
-[00:12:02] [Async Chat Thread - #8/INFO]: [G] NormalyMC ≫ una q?
-[00:12:08] [Async Chat Thread - #8/INFO]: [G]|[♚ prueba] _LUDFIXT_ ≫ 1 esmeralda
-[00:12:40] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC
-[00:12:40] [Server thread/INFO]: [_LUDFIXT_: Teleported _LUDFIXT_ to NormalyMC]
-[00:12:42] [Server thread/INFO]: NormalyMC was slain by Drowned
-[00:12:43] [Server thread/INFO]: Attempt to teleport removed player NormalyMC restricted
-[00:12:50] [Async Chat Thread - #8/INFO]: [G] NormalyMC ≫ OE
-[00:12:53] [Async Chat Thread - #8/INFO]: [G]|[♚ prueba] _LUDFIXT_ ≫ XDDD
-[00:13:04] [Async Chat Thread - #8/INFO]: [G]|[♚ prueba] _LUDFIXT_ ≫ te tepeo nomas 1 vez
-[00:13:09] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC
-[00:13:09] [Server thread/INFO]: [_LUDFIXT_: Teleported _LUDFIXT_ to NormalyMC]
-[00:13:44] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
-[00:13:44] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
-[00:13:51] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
-[00:13:51] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
+[00:23:31] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[00:23:35] [ServerMain/INFO]: Loaded 1174 recipes
+[00:23:36] [ServerMain/INFO]: Loaded 1271 advancements
+[00:23:36] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[00:23:36] [Server thread/INFO]: Loading properties
+[00:23:36] [Server thread/INFO]: This server is running Paper version git-Paper-497 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT) (Git: d8d54d9 on ver/1.20.4)
+[00:23:37] [Server thread/INFO]: Using 4 threads for Netty based IO
+[00:23:37] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[00:23:38] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[00:23:38] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[00:23:38] [Server thread/INFO]: Default game type: SURVIVAL
+[00:23:38] [Server thread/INFO]: Generating keypair
+[00:23:38] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:23:39] [Server thread/INFO]: Using epoll channel type
+[00:23:39] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[00:23:39] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[00:23:40] [Server thread/INFO]: [KingdomsX] Checking libraries...
+[00:23:40] [Server thread/INFO]: [KingdomsX] Loading server plugin Kingdoms v1.16.20.5
+[00:23:40] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[00:23:40] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:23:40] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:23:40] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:23:40] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:23:40] [Server thread/INFO]: Preparing level "world"
+[00:23:41] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:23:41] [Server thread/INFO]: Time elapsed: 256 ms
+[00:23:41] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[00:23:41] [Server thread/INFO]: Time elapsed: 116 ms
+[00:23:41] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[00:23:43] [Server thread/INFO]: Time elapsed: 1399 ms
+[00:23:43] [Server thread/INFO]: [KingdomsX] Enabling Kingdoms v1.16.20.5
+[00:23:44] [Server thread/INFO]: [KingdomsX] Loading language: EN (version 937728e7c35c84db81db3eb85835f691b97c249b)
+[00:23:45] [Server thread/INFO]: [KingdomsX] Default language: EN (English)
+[00:23:45] [Server thread/INFO]: [Kingdoms] Registering Structure: extractor
+[00:23:45] [Server thread/INFO]: [Kingdoms] Registering Structure: national-nexus
+[00:23:45] [Server thread/INFO]: [Kingdoms] Registering Structure: siege-cannon
+[00:23:45] [Server thread/INFO]: [Kingdoms] Registering Structure: warppad
+[00:23:45] [Server thread/INFO]: [Kingdoms] Registering Structure: powercell
+[00:23:45] [Server thread/INFO]: [Kingdoms] Registering Structure: regulator
+[00:23:45] [Server thread/INFO]: [Kingdoms] Registering Structure: outpost
+[00:23:45] [Server thread/INFO]: [Kingdoms] Registering Structure: nexus
+[00:23:45] [Server thread/INFO]: [Kingdoms] Registering Turret: hellfire
+[00:23:45] [Server thread/INFO]: [Kingdoms] Registering Turret: explosive-mine
+[00:23:45] [Server thread/INFO]: [Kingdoms] Registering Turret: inferno
+[00:23:45] [Server thread/INFO]: [Kingdoms] Registering Turret: spring
+[00:23:45] [Server thread/INFO]: [Kingdoms] Registering Turret: healing
+[00:23:45] [Server thread/INFO]: [Kingdoms] Registering Turret: heatbeam
+[00:23:45] [Server thread/INFO]: [Kingdoms] Registering Turret: soldier
+[00:23:45] [Server thread/INFO]: [Kingdoms] Registering Turret: psionic
+[00:23:45] [Server thread/INFO]: [Kingdoms] Registering Turret: flame
+[00:23:45] [Server thread/INFO]: [Kingdoms] Registering Turret: arrow
+[00:23:45] [Server thread/INFO]: [Kingdoms] Registering Turret: chemical-mine
+[00:23:48] [Server thread/INFO]: [Kingdoms] Citizens not found.
+[00:23:48] [Server thread/INFO]: [Kingdoms] MyPet not found.
+[00:23:48] [Server thread/INFO]: [Kingdoms] MCPets not found.
+[00:23:48] [Server thread/INFO]: [Kingdoms] MVdWPlaceholderAPI not found.
+[00:23:48] [Server thread/INFO]: [Kingdoms] PlaceholderAPI not found.
+[00:23:48] [Server thread/INFO]: [Kingdoms] ProjectKorra not found.
+[00:23:48] [Server thread/INFO]: [Kingdoms] WorldGuard not found.
+[00:23:48] [Server thread/INFO]: [Kingdoms] WorldEdit not found.
+[00:23:48] [Server thread/INFO]: [Kingdoms] Vault not found.
+[00:23:48] [Server thread/INFO]: [Kingdoms] AuthMe not found.
+[00:23:48] [Server thread/INFO]: [Kingdoms] DiscordSRV not found.
+[00:23:48] [Server thread/INFO]: [Kingdoms] LuckPerms not found.
+[00:23:48] [Server thread/INFO]: [Kingdoms] MythicMobs not found.
+[00:23:48] [Server thread/INFO]: [Kingdoms] Essentials not found.
+[00:23:48] [Server thread/INFO]: [Kingdoms] CMI not found.
+[00:23:48] [Server thread/INFO]: [Kingdoms] Slimefun not found.
+[00:23:48] [Server thread/INFO]: [Kingdoms] dynmap not found.
+[00:23:48] [Server thread/INFO]: [Kingdoms] BlueMap not found.
+[00:23:48] [Server thread/INFO]: [Kingdoms] squaremap not found.
+[00:23:48] [Server thread/INFO]: [Kingdoms] Pl3xMap not found.
+[00:23:48] [pool-15-thread-1/INFO]: [Kingdoms] Taking a backup...
+[00:23:48] [Server thread/INFO]: [KingdomsX] Loading libraries for h2 database...
+[00:23:48] [Server thread/INFO]: [KingdomsX] Loaded all libraries.
+[00:23:48] [Server thread/INFO]: [KingdomsX] Running H2 SQL Database:
+[00:23:48] [Server thread/INFO]: [KingdomsX]    | Driver: H2 JDBC Driver (catalog) | 2.1.214 (2022-06-13)
+[00:23:48] [Server thread/INFO]: [KingdomsX]    | Product: H2 | 2.1.214 (2022-06-13)
+[00:23:48] [Server thread/INFO]: [KingdomsX]    | JDBC: 4.2
+[00:23:48] [Server thread/INFO]: [KingdomsX] A total of 105 loaded chunks has been queried.
+[00:23:49] [kingdoms-worker-0/INFO]: [Kingdoms] Checking for updates...
+[00:23:49] [Server thread/INFO]: [KingdomsX] Loading all players...
+[00:23:49] [Server thread/INFO]: Running delayed init tasks
+[00:23:49] [Server thread/INFO]: Done (12.608s)! For help, type "help"
+[00:23:49] [Server thread/INFO]: Timings Reset
+[00:23:49] [Craft Scheduler Thread - 3 - Kingdoms/INFO]: [Kingdoms] -=-=-=-=-=-=-=-=-=-=-=-=-
+There is an update available!
+Current Version: v1.16.20.5
+Latest Version: v1.17.8-BETA
+-=-=-=-=-=-=-=-=-=-=-=-=-
+[00:23:50] [Craft Scheduler Thread - 2 - Kingdoms/INFO]: [Kingdoms] Setting up nations data...
+[00:23:50] [Craft Scheduler Thread - 2 - Kingdoms/INFO]: [Kingdoms] Done, loaded a total of 0 nations. Took 28ms
+[00:23:50] [Craft Scheduler Thread - 2 - Kingdoms/INFO]: [Kingdoms] Setting up kingdoms data...
+[00:23:50] [Craft Scheduler Thread - 2 - Kingdoms/INFO]: [Kingdoms] Done, loaded a total of 1 kingdoms. Took 72ms
+[00:23:50] [Craft Scheduler Thread - 2 - Kingdoms/INFO]: [Kingdoms] Loading lands data...
+[00:23:50] [Craft Scheduler Thread - 2 - Kingdoms/INFO]: [Kingdoms] Done, loaded a total of 1 lands. Took 3ms
+[00:23:50] [Craft Scheduler Thread - 2 - Kingdoms/INFO]: [KingdomsX] Updating top kingdoms... 1
+[00:24:04] [User Authenticator #0/INFO]: UUID of player _LUDFIXT_ is 5d9d5e4d-c81e-34ff-aa45-3dcd8d540d21
+[00:24:09] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[00:24:09] [Server thread/INFO]: _LUDFIXT_[/[0:0:0:0:0:0:0:1%0]:50792] logged in with entity id 165 at ([world]-1087.568981808159, 65.21643555040212, -272.6705524694866)
+[00:24:10] [Craft Scheduler Thread - 5 - Kingdoms/INFO]: _LUDFIXT_ has joined the server.
+[00:24:17] [User Authenticator #0/INFO]: UUID of player NormalyMC is 02c11b1c-41b7-3a20-ae93-3a10dbf5cc38
+[00:24:18] [Server thread/INFO]: NormalyMC[/[0:0:0:0:0:0:0:1%0]:45654] logged in with entity id 373 at ([world]-1096.9754681827367, 63.0, -271.07193569241207)
+[00:24:19] [Craft Scheduler Thread - 4 - Kingdoms/INFO]: NormalyMC has joined the server.
+[00:24:48] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode creative
+[00:24:48] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Creative Mode]
+[00:25:41] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode spectator
+[00:25:41] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Spectator Mode]
+[00:26:11] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode creative
+[00:26:11] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Creative Mode]
+[00:26:12] [Async Chat Thread - #0/INFO]: [G] NormalyMC ≫ tas silenciado
+[00:26:39] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode spectator
+[00:26:39] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Spectator Mode]
+[00:26:49] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode creative
+[00:26:49] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Creative Mode]
+[00:27:00] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
+[00:27:00] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
+[00:27:04] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode spectator
+[00:27:04] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Spectator Mode]
+[00:27:18] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
+[00:27:18] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
+[00:27:36] [Server thread/INFO]: NormalyMC has made the advancement [Acquire Hardware]
+[00:27:58] [Server thread/INFO]: _LUDFIXT_ issued server command: /k claim
+[00:28:04] [Server thread/INFO]: _LUDFIXT_ issued server command: /k unclaim
+[00:28:07] [Server thread/INFO]: Named entity EntitySkeleton['prueba Guard'/947, uuid='7bc1586e-3000-42a6-901e-f2d87b834c9f', l='ServerLevel[world]', x=-1106.52, y=55.00, z=-270.70, cpos=[-70, -17], tl=63, v=true] died: prueba Guard died
+[00:28:07] [Server thread/INFO]: NormalyMC has made the advancement [Monster Hunter]
+[00:28:07] [Server thread/INFO]: Named entity EntityZombie['prueba Guard'/948, uuid='cae7a0bb-0d65-46a3-9d9a-0e89b267f4c2', l='ServerLevel[world]', x=-1107.64, y=55.00, z=-270.46, cpos=[-70, -17], tl=63, v=true] died: prueba Guard was slain by NormalyMC
+[00:28:07] [Server thread/INFO]: Named entity EntityZombie['prueba Guard'/949, uuid='e6dc6c13-e040-48c5-96c9-f5d981e5e368', l='ServerLevel[world]', x=-1106.10, y=55.00, z=-270.44, cpos=[-70, -17], tl=62, v=true] died: prueba Guard died
+[00:28:07] [Server thread/INFO]: Named entity EntityZombie['prueba Guard'/950, uuid='1e6c32cd-1126-4119-9dcf-e6a1f72a3fbb', l='ServerLevel[world]', x=-1107.21, y=55.00, z=-270.32, cpos=[-70, -17], tl=62, v=true] died: prueba Guard died
+[00:28:07] [Server thread/INFO]: NormalyMC was slain by prueba Guard
+[00:28:12] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
+[00:28:12] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
+[00:28:22] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
+[00:28:22] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
+[00:29:40] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode creative
+[00:29:40] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Creative Mode]
+[00:30:26] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode spectator
+[00:30:26] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Spectator Mode]
+[00:31:13] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC
+[00:31:13] [Server thread/INFO]: [_LUDFIXT_: Teleported _LUDFIXT_ to NormalyMC]
+[00:32:32] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode creative
+[00:32:32] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Creative Mode]
+[00:32:34] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode spectator
+[00:32:34] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Spectator Mode]
+[00:32:36] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode creative
+[00:32:36] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Creative Mode]
+[00:32:42] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode spectator
+[00:32:42] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Spectator Mode]
+[00:32:52] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode creative
+[00:32:52] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Creative Mode]
+[00:32:54] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode spectator
+[00:32:54] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Spectator Mode]
+[00:32:55] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode creative
+[00:32:55] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Creative Mode]
+[00:32:58] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode spectator
+[00:32:58] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Spectator Mode]
+[00:33:00] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode creative
+[00:33:00] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Creative Mode]
+[00:33:03] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode spectator
+[00:33:03] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Spectator Mode]
+[00:33:06] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode creative
+[00:33:06] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Creative Mode]
+[00:33:09] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode spectator
+[00:33:09] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Spectator Mode]
+[00:33:11] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC
+[00:33:11] [Server thread/INFO]: [_LUDFIXT_: Teleported _LUDFIXT_ to NormalyMC]
