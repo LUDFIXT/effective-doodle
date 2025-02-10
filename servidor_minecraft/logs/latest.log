@@ -275,3 +275,156 @@ Latest Version: v1.17.8-BETA
 [02:46:55] [Server thread/INFO]: NormalyMC[/[0:0:0:0:0:0:0:1%0]:39172] logged in with entity id 4354 at ([world]-1224.0224744035556, 64.34923770368529, -101.2108244739759)
 [02:46:56] [Craft Scheduler Thread - 68 - Kingdoms/INFO]: NormalyMC has joined the server.
 [02:47:25] [Server thread/INFO]: NormalyMC was slain by _LUDFIXT_
+[02:47:33] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
+[02:47:33] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
+[02:47:42] [Craft Scheduler Thread - 72 - Kingdoms/INFO]: [Kingdoms] Auto saving... Checking 0 nations, 1 kingdoms, 1 lands and 3 players.
+[02:47:44] [Craft Scheduler Thread - 66 - Kingdoms/INFO]: [KingdomsX] Updating top kingdoms... 1
+[02:48:57] [Server thread/INFO]: _LUDFIXT_ has made the advancement [Take Aim]
+[02:49:32] [Server thread/INFO]: NormalyMC was slain by _LUDFIXT_
+[02:49:40] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode creative
+[02:49:40] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Creative Mode]
+[02:49:44] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode survival
+[02:49:44] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Survival Mode]
+[02:49:52] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
+[02:49:52] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
+[02:50:21] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode creative
+[02:50:21] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Creative Mode]
+[02:50:56] [Server thread/INFO]: _LUDFIXT_ issued server command: /kill NormalyMC
+[02:50:56] [Server thread/INFO]: NormalyMC was killed
+[02:50:56] [Server thread/INFO]: [_LUDFIXT_: Killed NormalyMC]
+[02:51:02] [Async Chat Thread - #5/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ TP
+[02:51:04] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
+[02:51:04] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
+[02:51:11] [Server thread/INFO]: _LUDFIXT_ issued server command: /kill NormalyMC
+[02:51:11] [Server thread/INFO]: NormalyMC was killed
+[02:51:11] [Server thread/INFO]: [_LUDFIXT_: Killed NormalyMC]
+[02:51:15] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
+[02:51:15] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
+[02:51:19] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
+[02:51:19] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
+[02:51:21] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
+[02:51:21] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
+[02:51:21] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
+[02:51:21] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
+[02:51:21] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
+[02:51:21] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
+[02:51:22] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
+[02:51:22] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
+[02:51:22] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
+[02:51:22] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
+[02:51:22] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
+[02:51:22] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
+[02:51:25] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
+[02:51:25] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
+[02:51:29] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
+[02:51:29] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
+[02:51:31] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
+[02:51:31] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
+[02:51:34] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
+[02:51:34] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
+[02:51:35] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
+[02:51:35] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
+[02:51:38] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
+[02:51:38] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
+[02:51:39] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
+[02:51:39] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
+[02:51:40] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
+[02:51:40] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
+[02:51:47] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
+[02:51:47] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
+[02:51:49] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
+[02:51:49] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
+[02:51:53] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
+[02:51:53] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
+[02:51:56] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
+[02:51:56] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
+[02:51:59] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
+[02:51:59] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
+[02:52:01] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
+[02:52:01] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
+[02:52:07] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
+[02:52:07] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
+[02:52:10] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
+[02:52:10] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
+[02:52:11] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
+[02:52:11] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
+[02:52:17] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
+[02:52:17] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
+[02:52:18] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
+[02:52:18] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
+[02:52:20] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
+[02:52:20] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
+[02:52:22] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
+[02:52:22] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
+[02:52:28] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
+[02:52:28] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
+[02:52:33] [Server thread/INFO]: NormalyMC fell from a high place
+[02:52:39] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
+[02:52:39] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
+[02:52:40] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
+[02:52:40] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
+[02:52:45] [Server thread/INFO]: NormalyMC fell from a high place
+[02:52:50] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
+[02:52:50] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
+[02:53:58] [Server thread/INFO]: _LUDFIXT_ issued server command: /difficulty hard
+[02:53:58] [Server thread/INFO]: [_LUDFIXT_: The difficulty has been set to Hard]
+[02:54:10] [Server thread/INFO]: _LUDFIXT_ issued server command: /difficulty hard
+[02:54:13] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
+[02:54:13] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
+[02:54:15] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
+[02:54:15] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
+[02:54:16] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
+[02:54:16] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
+[02:54:16] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
+[02:54:16] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
+[02:54:16] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
+[02:54:16] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
+[02:54:17] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
+[02:54:17] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
+[02:54:17] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
+[02:54:17] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
+[02:54:17] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
+[02:54:17] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
+[02:54:18] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
+[02:54:18] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
+[02:54:18] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
+[02:54:18] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
+[02:54:18] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
+[02:54:18] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
+[02:54:19] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
+[02:54:19] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
+[02:54:19] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
+[02:54:19] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
+[02:54:20] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
+[02:54:20] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
+[02:54:20] [Server thread/INFO]: NormalyMC fell from a high place
+[02:54:20] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
+[02:54:20] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
+[02:54:25] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
+[02:54:25] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
+[02:55:01] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
+[02:55:01] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
+[02:55:05] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
+[02:55:05] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
+[02:55:08] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
+[02:55:08] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
+[02:55:09] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
+[02:55:09] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
+[02:55:10] [Async Chat Thread - #7/INFO]: [G] _LUDFIXT_ ≫ s
+[02:55:21] [Server thread/INFO]: NormalyMC was shot by _LUDFIXT_
+[02:55:25] [Async Chat Thread - #7/INFO]: [G] _LUDFIXT_ ≫ s
+[02:55:26] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
+[02:55:26] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
+[02:55:46] [Server thread/INFO]: NormalyMC was shot by Skeleton
+[02:55:50] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
+[02:55:50] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
+[02:57:05] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode spectator
+[02:57:05] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Spectator Mode]
+[02:57:18] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode survival
+[02:57:18] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Survival Mode]
+[02:57:19] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode creative
+[02:57:19] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Creative Mode]
+[02:57:22] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode spectator
+[02:57:22] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Spectator Mode]
+[02:57:30] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
+[02:57:30] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
