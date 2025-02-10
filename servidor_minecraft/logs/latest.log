@@ -136,3 +136,7 @@ Latest Version: v1.17.8-BETA
 [22:26:59] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Spectator Mode]
 [22:27:01] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode creative
 [22:27:01] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Creative Mode]
+[22:36:04] [User Authenticator #2/INFO]: UUID of player NormalyMC is 02c11b1c-41b7-3a20-ae93-3a10dbf5cc38
+[22:36:04] [Server thread/INFO]: NormalyMC[/[0:0:0:0:0:0:0:1%0]:47974] logged in with entity id 3900 at ([world]50086.51102772837, 79.0, 640.1712140337972)
+[22:36:05] [Craft Scheduler Thread - 28 - Kingdoms/INFO]: NormalyMC has joined the server.
+[22:36:54] [Server thread/INFO]: NormalyMC issued server command: /k home
