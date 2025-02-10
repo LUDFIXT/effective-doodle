@@ -1,651 +1,230 @@
-[00:23:31] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[00:23:35] [ServerMain/INFO]: Loaded 1174 recipes
-[00:23:36] [ServerMain/INFO]: Loaded 1271 advancements
-[00:23:36] [Server thread/INFO]: Starting minecraft server version 1.20.4
-[00:23:36] [Server thread/INFO]: Loading properties
-[00:23:36] [Server thread/INFO]: This server is running Paper version git-Paper-497 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT) (Git: d8d54d9 on ver/1.20.4)
-[00:23:37] [Server thread/INFO]: Using 4 threads for Netty based IO
-[00:23:37] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[00:23:38] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+[02:17:26] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:17:31] [ServerMain/INFO]: Loaded 1174 recipes
+[02:17:31] [ServerMain/INFO]: Loaded 1271 advancements
+[02:17:31] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[02:17:31] [Server thread/INFO]: Loading properties
+[02:17:31] [Server thread/INFO]: This server is running Paper version git-Paper-497 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT) (Git: d8d54d9 on ver/1.20.4)
+[02:17:32] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[02:17:32] [Server thread/INFO]: Using 4 threads for Netty based IO
+[02:17:33] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
     We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
     For more information please visit: https://github.com/PaperMC/Paper/issues/8948
-[00:23:38] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
-[00:23:38] [Server thread/INFO]: Default game type: SURVIVAL
-[00:23:38] [Server thread/INFO]: Generating keypair
-[00:23:38] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:23:39] [Server thread/INFO]: Using epoll channel type
-[00:23:39] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[00:23:39] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[00:23:40] [Server thread/INFO]: [KingdomsX] Checking libraries...
-[00:23:40] [Server thread/INFO]: [KingdomsX] Loading server plugin Kingdoms v1.16.20.5
-[00:23:40] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[00:23:40] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:23:40] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:23:40] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:23:40] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:23:40] [Server thread/INFO]: Preparing level "world"
-[00:23:41] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:23:41] [Server thread/INFO]: Time elapsed: 256 ms
-[00:23:41] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[00:23:41] [Server thread/INFO]: Time elapsed: 116 ms
-[00:23:41] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[00:23:43] [Server thread/INFO]: Time elapsed: 1399 ms
-[00:23:43] [Server thread/INFO]: [KingdomsX] Enabling Kingdoms v1.16.20.5
-[00:23:44] [Server thread/INFO]: [KingdomsX] Loading language: EN (version 937728e7c35c84db81db3eb85835f691b97c249b)
-[00:23:45] [Server thread/INFO]: [KingdomsX] Default language: EN (English)
-[00:23:45] [Server thread/INFO]: [Kingdoms] Registering Structure: extractor
-[00:23:45] [Server thread/INFO]: [Kingdoms] Registering Structure: national-nexus
-[00:23:45] [Server thread/INFO]: [Kingdoms] Registering Structure: siege-cannon
-[00:23:45] [Server thread/INFO]: [Kingdoms] Registering Structure: warppad
-[00:23:45] [Server thread/INFO]: [Kingdoms] Registering Structure: powercell
-[00:23:45] [Server thread/INFO]: [Kingdoms] Registering Structure: regulator
-[00:23:45] [Server thread/INFO]: [Kingdoms] Registering Structure: outpost
-[00:23:45] [Server thread/INFO]: [Kingdoms] Registering Structure: nexus
-[00:23:45] [Server thread/INFO]: [Kingdoms] Registering Turret: hellfire
-[00:23:45] [Server thread/INFO]: [Kingdoms] Registering Turret: explosive-mine
-[00:23:45] [Server thread/INFO]: [Kingdoms] Registering Turret: inferno
-[00:23:45] [Server thread/INFO]: [Kingdoms] Registering Turret: spring
-[00:23:45] [Server thread/INFO]: [Kingdoms] Registering Turret: healing
-[00:23:45] [Server thread/INFO]: [Kingdoms] Registering Turret: heatbeam
-[00:23:45] [Server thread/INFO]: [Kingdoms] Registering Turret: soldier
-[00:23:45] [Server thread/INFO]: [Kingdoms] Registering Turret: psionic
-[00:23:45] [Server thread/INFO]: [Kingdoms] Registering Turret: flame
-[00:23:45] [Server thread/INFO]: [Kingdoms] Registering Turret: arrow
-[00:23:45] [Server thread/INFO]: [Kingdoms] Registering Turret: chemical-mine
-[00:23:48] [Server thread/INFO]: [Kingdoms] Citizens not found.
-[00:23:48] [Server thread/INFO]: [Kingdoms] MyPet not found.
-[00:23:48] [Server thread/INFO]: [Kingdoms] MCPets not found.
-[00:23:48] [Server thread/INFO]: [Kingdoms] MVdWPlaceholderAPI not found.
-[00:23:48] [Server thread/INFO]: [Kingdoms] PlaceholderAPI not found.
-[00:23:48] [Server thread/INFO]: [Kingdoms] ProjectKorra not found.
-[00:23:48] [Server thread/INFO]: [Kingdoms] WorldGuard not found.
-[00:23:48] [Server thread/INFO]: [Kingdoms] WorldEdit not found.
-[00:23:48] [Server thread/INFO]: [Kingdoms] Vault not found.
-[00:23:48] [Server thread/INFO]: [Kingdoms] AuthMe not found.
-[00:23:48] [Server thread/INFO]: [Kingdoms] DiscordSRV not found.
-[00:23:48] [Server thread/INFO]: [Kingdoms] LuckPerms not found.
-[00:23:48] [Server thread/INFO]: [Kingdoms] MythicMobs not found.
-[00:23:48] [Server thread/INFO]: [Kingdoms] Essentials not found.
-[00:23:48] [Server thread/INFO]: [Kingdoms] CMI not found.
-[00:23:48] [Server thread/INFO]: [Kingdoms] Slimefun not found.
-[00:23:48] [Server thread/INFO]: [Kingdoms] dynmap not found.
-[00:23:48] [Server thread/INFO]: [Kingdoms] BlueMap not found.
-[00:23:48] [Server thread/INFO]: [Kingdoms] squaremap not found.
-[00:23:48] [Server thread/INFO]: [Kingdoms] Pl3xMap not found.
-[00:23:48] [pool-15-thread-1/INFO]: [Kingdoms] Taking a backup...
-[00:23:48] [Server thread/INFO]: [KingdomsX] Loading libraries for h2 database...
-[00:23:48] [Server thread/INFO]: [KingdomsX] Loaded all libraries.
-[00:23:48] [Server thread/INFO]: [KingdomsX] Running H2 SQL Database:
-[00:23:48] [Server thread/INFO]: [KingdomsX]    | Driver: H2 JDBC Driver (catalog) | 2.1.214 (2022-06-13)
-[00:23:48] [Server thread/INFO]: [KingdomsX]    | Product: H2 | 2.1.214 (2022-06-13)
-[00:23:48] [Server thread/INFO]: [KingdomsX]    | JDBC: 4.2
-[00:23:48] [Server thread/INFO]: [KingdomsX] A total of 105 loaded chunks has been queried.
-[00:23:49] [kingdoms-worker-0/INFO]: [Kingdoms] Checking for updates...
-[00:23:49] [Server thread/INFO]: [KingdomsX] Loading all players...
-[00:23:49] [Server thread/INFO]: Running delayed init tasks
-[00:23:49] [Server thread/INFO]: Done (12.608s)! For help, type "help"
-[00:23:49] [Server thread/INFO]: Timings Reset
-[00:23:49] [Craft Scheduler Thread - 3 - Kingdoms/INFO]: [Kingdoms] -=-=-=-=-=-=-=-=-=-=-=-=-
+[02:17:33] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[02:17:33] [Server thread/INFO]: Default game type: SURVIVAL
+[02:17:33] [Server thread/INFO]: Generating keypair
+[02:17:34] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:17:34] [Server thread/INFO]: Using epoll channel type
+[02:17:34] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[02:17:34] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[02:17:34] [Server thread/INFO]: [KingdomsX] Checking libraries...
+[02:17:34] [Server thread/INFO]: [KingdomsX] Loading server plugin Kingdoms v1.16.20.5
+[02:17:35] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[02:17:35] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:17:35] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:17:35] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:17:35] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:17:35] [Server thread/INFO]: Preparing level "world"
+[02:17:36] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:17:36] [Server thread/INFO]: Time elapsed: 225 ms
+[02:17:36] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[02:17:36] [Server thread/INFO]: Time elapsed: 138 ms
+[02:17:36] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[02:17:37] [Server thread/INFO]: Time elapsed: 952 ms
+[02:17:37] [Server thread/INFO]: [KingdomsX] Enabling Kingdoms v1.16.20.5
+[02:17:38] [Server thread/INFO]: [KingdomsX] Loading language: EN (version 937728e7c35c84db81db3eb85835f691b97c249b)
+[02:17:39] [Server thread/INFO]: [KingdomsX] Default language: EN (English)
+[02:17:39] [Server thread/INFO]: [Kingdoms] Registering Structure: extractor
+[02:17:39] [Server thread/INFO]: [Kingdoms] Registering Structure: national-nexus
+[02:17:39] [Server thread/INFO]: [Kingdoms] Registering Structure: siege-cannon
+[02:17:39] [Server thread/INFO]: [Kingdoms] Registering Structure: warppad
+[02:17:39] [Server thread/INFO]: [Kingdoms] Registering Structure: powercell
+[02:17:39] [Server thread/INFO]: [Kingdoms] Registering Structure: regulator
+[02:17:39] [Server thread/INFO]: [Kingdoms] Registering Structure: outpost
+[02:17:39] [Server thread/INFO]: [Kingdoms] Registering Structure: nexus
+[02:17:39] [Server thread/INFO]: [Kingdoms] Registering Turret: hellfire
+[02:17:39] [Server thread/INFO]: [Kingdoms] Registering Turret: explosive-mine
+[02:17:39] [Server thread/INFO]: [Kingdoms] Registering Turret: inferno
+[02:17:39] [Server thread/INFO]: [Kingdoms] Registering Turret: spring
+[02:17:39] [Server thread/INFO]: [Kingdoms] Registering Turret: healing
+[02:17:39] [Server thread/INFO]: [Kingdoms] Registering Turret: heatbeam
+[02:17:39] [Server thread/INFO]: [Kingdoms] Registering Turret: soldier
+[02:17:39] [Server thread/INFO]: [Kingdoms] Registering Turret: psionic
+[02:17:39] [Server thread/INFO]: [Kingdoms] Registering Turret: flame
+[02:17:39] [Server thread/INFO]: [Kingdoms] Registering Turret: arrow
+[02:17:39] [Server thread/INFO]: [Kingdoms] Registering Turret: chemical-mine
+[02:17:42] [Server thread/INFO]: [Kingdoms] Citizens not found.
+[02:17:42] [Server thread/INFO]: [Kingdoms] MyPet not found.
+[02:17:42] [Server thread/INFO]: [Kingdoms] MCPets not found.
+[02:17:42] [Server thread/INFO]: [Kingdoms] MVdWPlaceholderAPI not found.
+[02:17:42] [Server thread/INFO]: [Kingdoms] PlaceholderAPI not found.
+[02:17:42] [Server thread/INFO]: [Kingdoms] ProjectKorra not found.
+[02:17:42] [Server thread/INFO]: [Kingdoms] WorldGuard not found.
+[02:17:42] [Server thread/INFO]: [Kingdoms] WorldEdit not found.
+[02:17:42] [Server thread/INFO]: [Kingdoms] Vault not found.
+[02:17:42] [Server thread/INFO]: [Kingdoms] AuthMe not found.
+[02:17:42] [Server thread/INFO]: [Kingdoms] DiscordSRV not found.
+[02:17:42] [Server thread/INFO]: [Kingdoms] LuckPerms not found.
+[02:17:42] [Server thread/INFO]: [Kingdoms] MythicMobs not found.
+[02:17:42] [Server thread/INFO]: [Kingdoms] Essentials not found.
+[02:17:42] [Server thread/INFO]: [Kingdoms] CMI not found.
+[02:17:42] [Server thread/INFO]: [Kingdoms] Slimefun not found.
+[02:17:42] [Server thread/INFO]: [Kingdoms] dynmap not found.
+[02:17:42] [Server thread/INFO]: [Kingdoms] BlueMap not found.
+[02:17:42] [Server thread/INFO]: [Kingdoms] squaremap not found.
+[02:17:42] [Server thread/INFO]: [Kingdoms] Pl3xMap not found.
+[02:17:42] [pool-15-thread-1/INFO]: [Kingdoms] Taking a backup...
+[02:17:42] [pool-15-thread-1/INFO]: [Kingdoms] You already have a backup for today!
+[02:17:42] [Server thread/INFO]: [KingdomsX] Loading libraries for h2 database...
+[02:17:42] [Server thread/INFO]: [KingdomsX] Loaded all libraries.
+[02:17:42] [Server thread/INFO]: [KingdomsX] Running H2 SQL Database:
+[02:17:42] [Server thread/INFO]: [KingdomsX]    | Driver: H2 JDBC Driver (catalog) | 2.1.214 (2022-06-13)
+[02:17:42] [Server thread/INFO]: [KingdomsX]    | Product: H2 | 2.1.214 (2022-06-13)
+[02:17:42] [Server thread/INFO]: [KingdomsX]    | JDBC: 4.2
+[02:17:42] [Server thread/INFO]: [KingdomsX] A total of 77 loaded chunks has been queried.
+[02:17:42] [kingdoms-worker-0/INFO]: [Kingdoms] Checking for updates...
+[02:17:42] [Server thread/INFO]: [KingdomsX] Loading all players...
+[02:17:43] [Server thread/INFO]: Running delayed init tasks
+[02:17:43] [Server thread/INFO]: Done (11.374s)! For help, type "help"
+[02:17:43] [Server thread/INFO]: Timings Reset
+[02:17:43] [Craft Scheduler Thread - 3 - Kingdoms/INFO]: [Kingdoms] -=-=-=-=-=-=-=-=-=-=-=-=-
 There is an update available!
 Current Version: v1.16.20.5
 Latest Version: v1.17.8-BETA
 -=-=-=-=-=-=-=-=-=-=-=-=-
-[00:23:50] [Craft Scheduler Thread - 2 - Kingdoms/INFO]: [Kingdoms] Setting up nations data...
-[00:23:50] [Craft Scheduler Thread - 2 - Kingdoms/INFO]: [Kingdoms] Done, loaded a total of 0 nations. Took 28ms
-[00:23:50] [Craft Scheduler Thread - 2 - Kingdoms/INFO]: [Kingdoms] Setting up kingdoms data...
-[00:23:50] [Craft Scheduler Thread - 2 - Kingdoms/INFO]: [Kingdoms] Done, loaded a total of 1 kingdoms. Took 72ms
-[00:23:50] [Craft Scheduler Thread - 2 - Kingdoms/INFO]: [Kingdoms] Loading lands data...
-[00:23:50] [Craft Scheduler Thread - 2 - Kingdoms/INFO]: [Kingdoms] Done, loaded a total of 1 lands. Took 3ms
-[00:23:50] [Craft Scheduler Thread - 2 - Kingdoms/INFO]: [KingdomsX] Updating top kingdoms... 1
-[00:24:04] [User Authenticator #0/INFO]: UUID of player _LUDFIXT_ is 5d9d5e4d-c81e-34ff-aa45-3dcd8d540d21
-[00:24:09] [Server thread/INFO]: Unknown command. Type "/help" for help.
-[00:24:09] [Server thread/INFO]: _LUDFIXT_[/[0:0:0:0:0:0:0:1%0]:50792] logged in with entity id 165 at ([world]-1087.568981808159, 65.21643555040212, -272.6705524694866)
-[00:24:10] [Craft Scheduler Thread - 5 - Kingdoms/INFO]: _LUDFIXT_ has joined the server.
-[00:24:17] [User Authenticator #0/INFO]: UUID of player NormalyMC is 02c11b1c-41b7-3a20-ae93-3a10dbf5cc38
-[00:24:18] [Server thread/INFO]: NormalyMC[/[0:0:0:0:0:0:0:1%0]:45654] logged in with entity id 373 at ([world]-1096.9754681827367, 63.0, -271.07193569241207)
-[00:24:19] [Craft Scheduler Thread - 4 - Kingdoms/INFO]: NormalyMC has joined the server.
-[00:24:48] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode creative
-[00:24:48] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Creative Mode]
-[00:25:41] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode spectator
-[00:25:41] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Spectator Mode]
-[00:26:11] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode creative
-[00:26:11] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Creative Mode]
-[00:26:12] [Async Chat Thread - #0/INFO]: [G] NormalyMC ≫ tas silenciado
-[00:26:39] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode spectator
-[00:26:39] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Spectator Mode]
-[00:26:49] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode creative
-[00:26:49] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Creative Mode]
-[00:27:00] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
-[00:27:00] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
-[00:27:04] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode spectator
-[00:27:04] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Spectator Mode]
-[00:27:18] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
-[00:27:18] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
-[00:27:36] [Server thread/INFO]: NormalyMC has made the advancement [Acquire Hardware]
-[00:27:58] [Server thread/INFO]: _LUDFIXT_ issued server command: /k claim
-[00:28:04] [Server thread/INFO]: _LUDFIXT_ issued server command: /k unclaim
-[00:28:07] [Server thread/INFO]: Named entity EntitySkeleton['prueba Guard'/947, uuid='7bc1586e-3000-42a6-901e-f2d87b834c9f', l='ServerLevel[world]', x=-1106.52, y=55.00, z=-270.70, cpos=[-70, -17], tl=63, v=true] died: prueba Guard died
-[00:28:07] [Server thread/INFO]: NormalyMC has made the advancement [Monster Hunter]
-[00:28:07] [Server thread/INFO]: Named entity EntityZombie['prueba Guard'/948, uuid='cae7a0bb-0d65-46a3-9d9a-0e89b267f4c2', l='ServerLevel[world]', x=-1107.64, y=55.00, z=-270.46, cpos=[-70, -17], tl=63, v=true] died: prueba Guard was slain by NormalyMC
-[00:28:07] [Server thread/INFO]: Named entity EntityZombie['prueba Guard'/949, uuid='e6dc6c13-e040-48c5-96c9-f5d981e5e368', l='ServerLevel[world]', x=-1106.10, y=55.00, z=-270.44, cpos=[-70, -17], tl=62, v=true] died: prueba Guard died
-[00:28:07] [Server thread/INFO]: Named entity EntityZombie['prueba Guard'/950, uuid='1e6c32cd-1126-4119-9dcf-e6a1f72a3fbb', l='ServerLevel[world]', x=-1107.21, y=55.00, z=-270.32, cpos=[-70, -17], tl=62, v=true] died: prueba Guard died
-[00:28:07] [Server thread/INFO]: NormalyMC was slain by prueba Guard
-[00:28:12] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
-[00:28:12] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
-[00:28:22] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
-[00:28:22] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
-[00:29:40] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode creative
-[00:29:40] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Creative Mode]
-[00:30:26] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode spectator
-[00:30:26] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Spectator Mode]
-[00:31:13] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC
-[00:31:13] [Server thread/INFO]: [_LUDFIXT_: Teleported _LUDFIXT_ to NormalyMC]
-[00:32:32] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode creative
-[00:32:32] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Creative Mode]
-[00:32:34] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode spectator
-[00:32:34] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Spectator Mode]
-[00:32:36] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode creative
-[00:32:36] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Creative Mode]
-[00:32:42] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode spectator
-[00:32:42] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Spectator Mode]
-[00:32:52] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode creative
-[00:32:52] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Creative Mode]
-[00:32:54] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode spectator
-[00:32:54] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Spectator Mode]
-[00:32:55] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode creative
-[00:32:55] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Creative Mode]
-[00:32:58] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode spectator
-[00:32:58] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Spectator Mode]
-[00:33:00] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode creative
-[00:33:00] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Creative Mode]
-[00:33:03] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode spectator
-[00:33:03] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Spectator Mode]
-[00:33:06] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode creative
-[00:33:06] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Creative Mode]
-[00:33:09] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode spectator
-[00:33:09] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Spectator Mode]
-[00:33:11] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC
-[00:33:11] [Server thread/INFO]: [_LUDFIXT_: Teleported _LUDFIXT_ to NormalyMC]
-[00:33:48] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC
-[00:33:48] [Server thread/INFO]: [_LUDFIXT_: Teleported _LUDFIXT_ to NormalyMC]
-[00:35:00] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC
-[00:35:00] [Server thread/INFO]: [_LUDFIXT_: Teleported _LUDFIXT_ to NormalyMC]
-[00:35:23] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode survival
-[00:35:23] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Survival Mode]
-[00:35:24] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode creative
-[00:35:24] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Creative Mode]
-[00:35:31] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode spectator
-[00:35:31] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Spectator Mode]
-[00:35:35] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode creative
-[00:35:35] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Creative Mode]
-[00:35:41] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode spectator
-[00:35:41] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Spectator Mode]
-[00:38:29] [Server thread/INFO]: NormalyMC has made the advancement [Isn't It Iron Pick]
-[00:39:47] [Server thread/INFO]: NormalyMC has made the advancement [Diamonds!]
-[00:40:08] [User Authenticator #1/INFO]: UUID of player brosky143 is ee5d6d00-3ac7-3110-9dcf-91b2d20683ba
-[00:40:08] [Server thread/INFO]: brosky143[/[0:0:0:0:0:0:0:1%0]:47724] logged in with entity id 3283 at ([world]0.5, 111.0, 2.5)
-[00:40:09] [Craft Scheduler Thread - 13 - Kingdoms/INFO]: brosky143 has joined the server.
-[00:40:15] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp brosky143
-[00:40:15] [Server thread/INFO]: [_LUDFIXT_: Teleported _LUDFIXT_ to brosky143]
-[00:40:47] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode survival brosky143
-[00:41:14] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode survival brosky143
-[00:41:18] [Async Chat Thread - #1/INFO]: [G] NormalyMC ≫ yisus
-[00:41:24] [Async Chat Thread - #1/INFO]: [G] brosky143 ≫ q paso
-[00:41:27] [Async Chat Thread - #1/INFO]: [G] NormalyMC ≫ aya
-[00:41:32] [Async Chat Thread - #1/INFO]: [G] NormalyMC ≫ estaba verificando
-[00:41:42] [Async Chat Thread - #1/INFO]: [G] brosky143 ≫ no puedo romper nada
-[00:41:52] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode survival brosky143
-[00:41:59] [Async Chat Thread - #1/INFO]: [G]|[♚ prueba] _LUDFIXT_ ≫ no puedes romper nada?
-[00:42:04] [Async Chat Thread - #1/INFO]: [G] brosky143 ≫ no
-[00:42:10] [Async Chat Thread - #1/INFO]: [G] brosky143 ≫ ya puedo
-[00:42:12] [Async Chat Thread - #1/INFO]: [G]|[♚ prueba] _LUDFIXT_ ≫ ok ok
-[00:42:18] [Async Chat Thread - #1/INFO]: [G] brosky143 ≫ ok gracias
-[00:42:20] [Async Chat Thread - #1/INFO]: [G]|[♚ prueba] _LUDFIXT_ ≫ lee lo que hay en el cofre
-[00:42:45] [Async Chat Thread - #1/INFO]: [G]|[♚ prueba] _LUDFIXT_ ≫ seguramente es la proteccion del spawn
-[00:43:00] [Async Chat Thread - #1/INFO]: [G]|[♚ prueba] _LUDFIXT_ ≫ brosky143
-[00:43:05] [Async Chat Thread - #1/INFO]: [G]|[♚ prueba] _LUDFIXT_ ≫ seguramente es la proteccion del spawn
-[00:43:21] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp brosky143 _LUDFIXT_
-[00:43:21] [Server thread/INFO]: [_LUDFIXT_: Teleported brosky143 to _LUDFIXT_]
-[00:43:23] [Async Chat Thread - #1/INFO]: [G]|[♚ prueba] _LUDFIXT_ ≫ ahora?
-[00:43:27] [Async Chat Thread - #1/INFO]: [G]|[♚ prueba] _LUDFIXT_ ≫ ya
-[00:43:30] [Async Chat Thread - #1/INFO]: [G] brosky143 ≫ si
-[00:43:31] [Async Chat Thread - #1/INFO]: [G]|[♚ prueba] _LUDFIXT_ ≫ era la proteccion del spawn
-[00:43:38] [Async Chat Thread - #1/INFO]: [G]|[♚ prueba] _LUDFIXT_ ≫ te tpeo a NormalyMC
-[00:43:39] [Async Chat Thread - #1/INFO]: [G]|[♚ prueba] _LUDFIXT_ ≫ ?
-[00:43:45] [Async Chat Thread - #1/INFO]: [G] brosky143 ≫ si quiere
-[00:43:45] [Async Chat Thread - #1/INFO]: [G] NormalyMC ≫ aja
-[00:43:47] [Async Chat Thread - #1/INFO]: [G] NormalyMC ≫ pero
-[00:43:50] [Async Chat Thread - #2/INFO]: [G] NormalyMC ≫ tpea
-[00:43:52] [Async Chat Thread - #2/INFO]: [G] NormalyMC ≫ a mi base
-[00:43:55] [Async Chat Thread - #3/INFO]: [G] NormalyMC ≫ donde tengo la cama
-[00:43:58] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC
-[00:43:58] [Server thread/INFO]: [_LUDFIXT_: Teleported _LUDFIXT_ to NormalyMC]
-[00:44:44] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp brosky143 _LUDFIXT_
-[00:44:44] [Server thread/INFO]: [_LUDFIXT_: Teleported brosky143 to _LUDFIXT_]
-[00:44:45] [Async Chat Thread - #3/INFO]: [G]|[♚ prueba] _LUDFIXT_ ≫ listo
-[00:44:48] [Async Chat Thread - #3/INFO]: [G]|[♚ prueba] _LUDFIXT_ ≫ esa es su base
-[00:44:56] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp brosky143 _LUDFIXT_
-[00:44:56] [Server thread/INFO]: [_LUDFIXT_: Teleported brosky143 to _LUDFIXT_]
-[00:45:25] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC
-[00:45:25] [Server thread/INFO]: [_LUDFIXT_: Teleported _LUDFIXT_ to NormalyMC]
-[00:45:47] [Server thread/INFO]: brosky143 has made the advancement [Stone Age]
-[00:46:26] [Server thread/INFO]: brosky143 has made the advancement [Getting an Upgrade]
-[00:47:00] [Async Chat Thread - #4/INFO]: [G] brosky143 ≫ hay esmeralda
-[00:47:29] [Async Chat Thread - #4/INFO]: [G] brosky143 ≫ si
-[00:47:33] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode creative
-[00:47:33] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Creative Mode]
-[00:48:04] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode spectator
-[00:48:04] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Spectator Mode]
-[00:48:39] [Async Chat Thread - #6/INFO]: [G] brosky143 ≫ aca otra esmeralda
-[00:48:46] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
-[00:48:46] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
-[00:49:10] [Async Chat Thread - #6/INFO]: [G]|[♚ prueba] _LUDFIXT_ ≫ ./k create "nombre2
-[00:49:14] [Server thread/INFO]: NormalyMC issued server command: /k create YisusPalisus
-[00:49:41] [Async Chat Thread - #6/INFO]: [G]|[♚ prueba] _LUDFIXT_ ≫ ./k nexus
-[00:50:08] [Async Chat Thread - #6/INFO]: [G] brosky143 ≫ mucha?
-[00:50:34] [Async Chat Thread - #6/INFO]: [G] brosky143 ≫ de cualquier madera?
-[00:51:03] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[00:52:17] [Async Chat Thread - #8/INFO]: [G] brosky143 ≫ no medeja talar arboles
-[00:52:45] [Async Chat Thread - #8/INFO]: [G] brosky143 ≫ no
-[00:52:51] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp brosky143
-[00:52:51] [Server thread/INFO]: [_LUDFIXT_: Teleported _LUDFIXT_ to brosky143]
-[00:53:09] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode survival brosky143
-[00:53:17] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode adventure brosky143
-[00:53:17] [Server thread/INFO]: [_LUDFIXT_: Set brosky143's game mode to Adventure Mode]
-[00:53:20] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode survival brosky143
-[00:53:20] [Server thread/INFO]: [_LUDFIXT_: Set brosky143's game mode to Survival Mode]
-[00:53:49] [Craft Scheduler Thread - 38 - Kingdoms/INFO]: [Kingdoms] Auto saving... Checking 0 nations, 2 kingdoms, 2 lands and 3 players.
-[00:53:50] [Craft Scheduler Thread - 49 - Kingdoms/INFO]: [KingdomsX] Updating top kingdoms... 2
-[00:54:17] [Server thread/INFO]: NormalyMC issued server command: /k invite bro
-[00:54:37] [Server thread/INFO]: NormalyMC issued server command: /k invite brosky143
-[00:54:57] [Server thread/INFO]: NormalyMC has made the advancement [Sweet Dreams]
-[00:55:05] [Async Chat Thread - #10/INFO]: [G]|[♚ prueba] _LUDFIXT_ ≫ ,/k acceptinvite
-[00:55:06] [Async Chat Thread - #10/INFO]: [G] brosky143 ≫ ya puedo
-[00:55:28] [Server thread/INFO]: _LUDFIXT_ issued server command: /k acceptinvite
-[00:55:31] [Async Chat Thread - #10/INFO]: [G] brosky143 ≫ ,/k acceptinvite
-[00:55:36] [Async Chat Thread - #10/INFO]: [G]|[♚ prueba] _LUDFIXT_ ≫ sin la ,
-[00:55:37] [Async Chat Thread - #10/INFO]: [G] brosky143 ≫ a
-[00:55:38] [Server thread/INFO]: brosky143 issued server command: /xd
-[00:55:40] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC
-[00:55:40] [Server thread/INFO]: [_LUDFIXT_: Teleported _LUDFIXT_ to NormalyMC]
-[00:55:51] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp brosky143 NormalyMC
-[00:55:51] [Server thread/INFO]: [_LUDFIXT_: Teleported brosky143 to NormalyMC]
-[00:55:54] [Server thread/INFO]: brosky143 issued server command: /k acceptinvite
-[00:56:16] [Server thread/INFO]: brosky143 has made the advancement [Monster Hunter]
-[00:58:55] [Server thread/INFO]: brosky143 has made the advancement [Acquire Hardware]
-[00:59:00] [Server thread/INFO]: brosky143 has made the advancement [Isn't It Iron Pick]
-[01:00:16] [Server thread/INFO]: NormalyMC issued server command: /k p
-[01:02:43] [Server thread/INFO]: _LUDFIXT_ issued server command: /k nexus open
-[01:02:47] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode creative
-[01:02:47] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Creative Mode]
-[01:02:55] [Server thread/INFO]: _LUDFIXT_ issued server command: /k nexus open
-[01:05:01] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode spectator
-[01:05:01] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Spectator Mode]
-[01:06:38] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode creative
-[01:06:38] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Creative Mode]
-[01:06:59] [Server thread/INFO]: _LUDFIXT_ has made the advancement [Isn't It Iron Pick]
-[01:07:06] [Server thread/INFO]: _LUDFIXT_ has made the advancement [Suit Up]
-[01:07:22] [Server thread/INFO]: _LUDFIXT_ has made the advancement [Cover Me with Diamonds]
-[01:09:05] [Async Chat Thread - #12/INFO]: [G]|[❇ YisusPalisus] brosky143 ≫ q paso
-[01:09:31] [Async Chat Thread - #12/INFO]: [G]|[♚ prueba] _LUDFIXT_ ≫ .
-[01:09:36] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode spectator
-[01:09:36] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Spectator Mode]
-[01:09:46] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC
-[01:09:46] [Server thread/INFO]: [_LUDFIXT_: Teleported _LUDFIXT_ to NormalyMC]
-[01:12:45] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
-[01:12:45] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
-[01:12:47] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
-[01:12:47] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
-[01:12:53] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
-[01:12:53] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
-[01:12:55] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
-[01:12:55] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
-[01:16:47] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC
-[01:16:47] [Server thread/INFO]: [_LUDFIXT_: Teleported _LUDFIXT_ to NormalyMC]
-[01:16:49] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp brosky143
-[01:16:49] [Server thread/INFO]: [_LUDFIXT_: Teleported _LUDFIXT_ to brosky143]
-[01:17:01] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode creative
-[01:17:01] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Creative Mode]
-[01:17:04] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode spectator
-[01:17:04] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Spectator Mode]
-[01:17:08] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC
-[01:17:08] [Server thread/INFO]: [_LUDFIXT_: Teleported _LUDFIXT_ to NormalyMC]
-[01:18:59] [Server thread/INFO]: _LUDFIXT_ lost connection: Timed out
-[01:18:59] [Server thread/INFO]: _LUDFIXT_ has left the server.
-[01:19:32] [User Authenticator #2/INFO]: UUID of player _LUDFIXT_ is 5d9d5e4d-c81e-34ff-aa45-3dcd8d540d21
-[01:19:33] [Server thread/INFO]: _LUDFIXT_[/[0:0:0:0:0:0:0:1%0]:52926] logged in with entity id 10048 at ([world]-1086.7787520808886, -12.273131679759938, -195.5875023133592)
-[01:19:34] [Craft Scheduler Thread - 97 - Kingdoms/INFO]: _LUDFIXT_ has joined the server.
-[01:19:44] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp brosky143
-[01:19:44] [Server thread/INFO]: [_LUDFIXT_: Teleported _LUDFIXT_ to brosky143]
-[01:19:47] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode creative
-[01:19:47] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Creative Mode]
-[01:20:02] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode survival
-[01:20:02] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Survival Mode]
-[01:20:47] [Server thread/INFO]: _LUDFIXT_ issued server command: /k nexus remove
-[01:20:56] [Server thread/INFO]: _LUDFIXT_ issued server command: /k home
-[01:21:01] [Server thread/INFO]: _LUDFIXT_ issued server command: /k nexus
-[01:21:08] [Async Chat Thread - #14/INFO]: [G]|[❇ YisusPalisus] brosky143 ≫ NO HAY NADA
-[01:21:10] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp brosky143
-[01:21:10] [Server thread/INFO]: [_LUDFIXT_: Teleported _LUDFIXT_ to brosky143]
-[01:21:17] [Server thread/INFO]: _LUDFIXT_ issued server command: /k nexus open
-[01:21:18] [Async Chat Thread - #14/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ pero si yo mine una
-[01:21:29] [Async Chat Thread - #14/INFO]: [G]|[❇ YisusPalisus] brosky143 ≫ yo no agarre nada
-[01:22:25] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode creative
-[01:22:25] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Creative Mode]
-[01:22:50] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC
-[01:22:50] [Server thread/INFO]: [_LUDFIXT_: Teleported _LUDFIXT_ to NormalyMC]
-[01:22:57] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode spectator
-[01:22:57] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Spectator Mode]
-[01:23:02] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
-[01:23:02] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
-[01:23:07] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
-[01:23:07] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
-[01:23:39] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC
-[01:23:39] [Server thread/INFO]: [_LUDFIXT_: Teleported _LUDFIXT_ to NormalyMC]
-[01:23:49] [Craft Scheduler Thread - 90 - Kingdoms/INFO]: [Kingdoms] Auto saving... Checking 0 nations, 2 kingdoms, 2 lands and 3 players.
-[01:23:50] [Craft Scheduler Thread - 90 - Kingdoms/INFO]: [KingdomsX] Updating top kingdoms... 2
-[01:25:07] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC
-[01:25:07] [Server thread/INFO]: [_LUDFIXT_: Teleported _LUDFIXT_ to NormalyMC]
-[01:30:11] [Async Chat Thread - #16/INFO]: [G]|[♚ prueba] _LUDFIXT_ ≫ te tpeo??
-[01:30:18] [Async Chat Thread - #16/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ ajha
-[01:30:33] [Async Chat Thread - #16/INFO]: [G]|[♚ prueba] _LUDFIXT_ ≫ brosky143 te tpeo ?
-[01:31:25] [Async Chat Thread - #16/INFO]: [G]|[♚ prueba] _LUDFIXT_ ≫ brosky te tepeo
-[01:31:29] [Async Chat Thread - #16/INFO]: [G]|[❇ YisusPalisus] brosky143 ≫ ok
-[01:31:37] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp brosky143 NormalyMC
-[01:31:37] [Server thread/INFO]: [_LUDFIXT_: Teleported brosky143 to NormalyMC]
-[01:31:43] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC
-[01:31:43] [Server thread/INFO]: [_LUDFIXT_: Teleported _LUDFIXT_ to NormalyMC]
-[01:31:49] [Async Chat Thread - #16/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ yo
-[01:31:55] [Async Chat Thread - #16/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ mejorare
-[01:31:58] [Async Chat Thread - #16/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ la base
-[01:32:04] [Async Chat Thread - #16/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ baja aca
-[01:32:26] [Async Chat Thread - #16/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ esperate
-[01:33:11] [Async Chat Thread - #16/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ bajale
-[01:33:17] [Async Chat Thread - #16/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ te dejare los minerales
-[01:33:36] [Async Chat Thread - #16/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ aca
-[01:34:04] [Async Chat Thread - #16/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ subele
-[01:34:08] [Async Chat Thread - #16/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ aca
-[01:34:14] [Async Chat Thread - #16/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ picale
-[01:35:17] [Async Chat Thread - #19/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ aca ven
-[01:35:33] [Async Chat Thread - #19/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ cprreke
-[01:36:23] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC
-[01:36:23] [Server thread/INFO]: [_LUDFIXT_: Teleported _LUDFIXT_ to NormalyMC]
-[01:36:28] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp brosky143
-[01:36:28] [Server thread/INFO]: [_LUDFIXT_: Teleported _LUDFIXT_ to brosky143]
-[01:36:31] [Async Chat Thread - #19/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ intentando conseguir hierro
-[01:36:50] [Async Chat Thread - #18/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ yisus
-[01:36:52] [Async Chat Thread - #18/INFO]: [G]|[❇ YisusPalisus] brosky143 ≫ q pasio
-[01:36:53] [Async Chat Thread - #18/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ quedate arriba
-[01:36:55] [Async Chat Thread - #18/INFO]: [G]|[❇ YisusPalisus] brosky143 ≫ paso
-[01:36:58] [Async Chat Thread - #18/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ ire a ver
-[01:36:59] [Async Chat Thread - #18/INFO]: [G]|[❇ YisusPalisus] brosky143 ≫ ya
-[01:37:00] [Async Chat Thread - #18/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ nonono
-[01:37:02] [Async Chat Thread - #18/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ baja
-[01:37:03] [Async Chat Thread - #18/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ conmigo
-[01:37:11] [Async Chat Thread - #18/INFO]: [G]|[❇ YisusPalisus] brosky143 ≫ onde estas
-[01:37:15] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp brosky143 NormalyMC
-[01:37:15] [Server thread/INFO]: [_LUDFIXT_: Teleported brosky143 to NormalyMC]
-[01:37:18] [Async Chat Thread - #18/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ espera
-[01:37:22] [Async Chat Thread - #18/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ aca
-[01:38:28] [Async Chat Thread - #20/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ cuidado
-[01:39:30] [Async Chat Thread - #22/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ aca hay mas mounstros
-[01:39:53] [Async Chat Thread - #22/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ cuanto vas
-[01:39:53] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC
-[01:39:53] [Server thread/INFO]: [_LUDFIXT_: Teleported _LUDFIXT_ to NormalyMC]
-[01:39:57] [Async Chat Thread - #22/INFO]: [G]|[❇ YisusPalisus] brosky143 ≫ 21
-[01:40:00] [Async Chat Thread - #22/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ god
-[01:41:08] [Async Chat Thread - #24/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ baja
-[01:41:15] [Async Chat Thread - #24/INFO]: [G]|[❇ YisusPalisus] brosky143 ≫ ya
-[01:41:40] [Async Chat Thread - #24/INFO]: [G]|[❇ YisusPalisus] brosky143 ≫ diamatne
-[01:41:44] [Async Chat Thread - #24/INFO]: [G]|[❇ YisusPalisus] brosky143 ≫ diamante
-[01:41:50] [Async Chat Thread - #24/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ picale
-[01:42:06] [Async Chat Thread - #24/INFO]: [G]|[❇ YisusPalisus] brosky143 ≫ no tengo pico de hierro
-[01:42:28] [Async Chat Thread - #24/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ tienes madera?
-[01:42:32] [Async Chat Thread - #24/INFO]: [G]|[❇ YisusPalisus] brosky143 ≫ no
-[01:42:58] [Async Chat Thread - #24/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ nononon
-[01:43:04] [Async Chat Thread - #24/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ el hierro quedatelo
-[01:43:09] [Async Chat Thread - #24/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ a no
-[01:43:12] [Async Chat Thread - #24/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ r
-[01:43:20] [Async Chat Thread - #24/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ ya tienes 3?
-[01:43:26] [Async Chat Thread - #24/INFO]: [G]|[❇ YisusPalisus] brosky143 ≫ No
-[01:43:27] [Async Chat Thread - #24/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ locococoxc
-[01:43:28] [Async Chat Thread - #24/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ LOCOCOC
-[01:43:32] [Async Chat Thread - #24/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ sacamos premio
-[01:43:33] [Async Chat Thread - #24/INFO]: [G]|[❇ YisusPalisus] brosky143 ≫ q paso
-[01:43:33] [Async Chat Thread - #24/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ YISUSS
-[01:43:41] [Async Chat Thread - #24/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ ENCONTRAMOS UNA CIUDAD ANTIGUA
-[01:43:47] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC
-[01:43:47] [Server thread/INFO]: [_LUDFIXT_: Teleported _LUDFIXT_ to NormalyMC]
-[01:43:51] [Async Chat Thread - #24/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ q diga
-[01:43:55] [Async Chat Thread - #24/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ mineshaft
-[01:44:08] [Async Chat Thread - #24/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ cuidado aca
-[01:44:13] [Async Chat Thread - #24/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ spawn de arañas veneno
-[01:44:15] [Async Chat Thread - #24/INFO]: [G]|[❇ YisusPalisus] brosky143 ≫ voy a cocinar
-[01:44:20] [Async Chat Thread - #24/INFO]: [G]|[❇ YisusPalisus] brosky143 ≫ hierro
-[01:44:27] [Async Chat Thread - #24/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ aya
-[01:44:28] [Async Chat Thread - #24/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ ok
-[01:44:31] [Async Chat Thread - #24/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ 3 solo
-[01:44:33] [Async Chat Thread - #24/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ para el pico
-[01:44:35] [Async Chat Thread - #24/INFO]: [G]|[❇ YisusPalisus] brosky143 ≫ si
-[01:44:35] [Async Chat Thread - #24/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ solo 3
-[01:44:45] [Async Chat Thread - #24/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ voy a ir a la mineshat
-[01:45:40] [Async Chat Thread - #24/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ cuidado
-[01:45:48] [Async Chat Thread - #24/INFO]: [G]|[❇ YisusPalisus] brosky143 ≫ ya
-[01:45:48] [Async Chat Thread - #24/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ abajo hay una araña venenosa
-[01:45:54] [Async Chat Thread - #24/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ DIAMATE
-[01:45:57] [Async Chat Thread - #24/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ ACAAA
-[01:46:02] [Async Chat Thread - #24/INFO]: [G]|[❇ YisusPalisus] brosky143 ≫ ya voy
-[01:46:20] [Async Chat Thread - #24/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ uy
-[01:46:32] [Async Chat Thread - #24/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ ayud
-[01:46:37] [Async Chat Thread - #24/INFO]: [G]|[❇ YisusPalisus] brosky143 ≫ entonce otro
-[01:46:40] [Server thread/INFO]: NormalyMC was slain by Cave Spider
-[01:46:47] [Async Chat Thread - #25/INFO]: [G]|[❇ YisusPalisus] brosky143 ≫ ciudad
-[01:46:52] [Async Chat Thread - #24/INFO]: [G]|[♚ prueba] _LUDFIXT_ ≫ c redlox
-[01:46:54] [Async Chat Thread - #24/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ has un hueco
-[01:46:54] [Async Chat Thread - #24/INFO]: [G]|[❇ YisusPalisus] brosky143 ≫ nrooo
-[01:46:58] [Async Chat Thread - #24/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ escondete
-[01:47:00] [Async Chat Thread - #24/INFO]: [G]|[❇ YisusPalisus] brosky143 ≫ ayuda
-[01:47:07] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
-[01:47:07] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
-[01:47:23] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp brosky143
-[01:47:23] [Server thread/INFO]: [_LUDFIXT_: Teleported _LUDFIXT_ to brosky143]
-[01:47:30] [Async Chat Thread - #24/INFO]: [G]|[❇ YisusPalisus] brosky143 ≫ medio corazon
-[01:47:37] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode creative
-[01:47:37] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Creative Mode]
-[01:47:41] [Async Chat Thread - #24/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ ay
-[01:47:43] [Async Chat Thread - #24/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ ay
-[01:47:50] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode spectator
-[01:47:50] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Spectator Mode]
-[01:47:55] [Async Chat Thread - #24/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ casi muerto
-[01:48:00] [Async Chat Thread - #24/INFO]: [G]|[♚ prueba] _LUDFIXT_ ≫ nomas les ayudo un poco
-[01:48:06] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC
-[01:48:06] [Server thread/INFO]: [_LUDFIXT_: Teleported _LUDFIXT_ to NormalyMC]
-[01:48:07] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode creative
-[01:48:07] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Creative Mode]
-[01:48:14] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode spectator
-[01:48:14] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Spectator Mode]
-[01:48:21] [Async Chat Thread - #24/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ pa que me sirve si ni tengo espada
-[01:48:23] [Async Chat Thread - #24/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ xd
-[01:48:27] [Async Chat Thread - #24/INFO]: [G]|[♚ prueba] _LUDFIXT_ ≫ tienws manos
-[01:48:59] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode creative
-[01:48:59] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Creative Mode]
-[01:49:21] [Server thread/INFO]: brosky143 was slain by Zombie
-[01:49:27] [Async Chat Thread - #24/INFO]: [G]|[♚ prueba] _LUDFIXT_ ≫ CAUSA
-[01:49:30] [Server thread/INFO]: NormalyMC was slain by Cave Spider
-[01:49:31] [Async Chat Thread - #24/INFO]: [G]|[♚ prueba] _LUDFIXT_ ≫ ENCONTRARON UN SPAWNER
-[01:49:42] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp brosky143 _LUDFIXT_
-[01:49:42] [Server thread/INFO]: [_LUDFIXT_: Teleported brosky143 to _LUDFIXT_]
-[01:49:45] [Async Chat Thread - #24/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ correle
-[01:49:45] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC brosky143
-[01:49:45] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to brosky143]
-[01:49:58] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode spectator
-[01:49:58] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Spectator Mode]
-[01:50:00] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode creative
-[01:50:00] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Creative Mode]
-[01:50:11] [Server thread/INFO]: _LUDFIXT_ has made the advancement [Getting an Upgrade]
-[01:50:11] [Server thread/INFO]: _LUDFIXT_ has made the advancement [Stone Age]
-[01:50:17] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode spectator
-[01:50:17] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Spectator Mode]
-[01:50:19] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode creative
-[01:50:19] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Creative Mode]
-[01:50:31] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp brosky143 _LUDFIXT_
-[01:50:31] [Server thread/INFO]: [_LUDFIXT_: Teleported brosky143 to _LUDFIXT_]
-[01:50:50] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp brosky143 _LUDFIXT_
-[01:50:50] [Server thread/INFO]: [_LUDFIXT_: Teleported brosky143 to _LUDFIXT_]
-[01:50:58] [Server thread/INFO]: NormalyMC was doomed to fall by Cave Spider
-[01:51:04] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
-[01:51:04] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
-[01:51:10] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode spectator
-[01:51:10] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Spectator Mode]
-[01:51:14] [Server thread/INFO]: NormalyMC tried to swim in lava to escape Cave Spider
-[01:51:16] [Async Chat Thread - #26/INFO]: [G]|[♚ prueba] _LUDFIXT_ ≫ XDD
-[01:51:19] [Async Chat Thread - #26/INFO]: [G]|[♚ prueba] _LUDFIXT_ ≫ redlox
-[01:51:21] [Async Chat Thread - #26/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ q
-[01:51:21] [Async Chat Thread - #26/INFO]: [G]|[♚ prueba] _LUDFIXT_ ≫ donde estan tus cosas
-[01:51:26] [Async Chat Thread - #26/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ tp
-[01:51:31] [Async Chat Thread - #26/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ yo se
-[01:51:34] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
-[01:51:34] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
-[01:51:36] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode creative
-[01:51:36] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Creative Mode]
-[01:51:41] [Server thread/INFO]: brosky143 was shot by Skeleton
-[01:51:59] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode spectator
-[01:51:59] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Spectator Mode]
-[01:52:10] [Async Chat Thread - #26/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ visage
-[01:52:15] [Async Chat Thread - #26/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ yisus
-[01:52:17] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp brosky143 _LUDFIXT_
-[01:52:17] [Server thread/INFO]: [_LUDFIXT_: Teleported brosky143 to _LUDFIXT_]
-[01:52:18] [Async Chat Thread - #26/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ los dos diamantes
-[01:52:18] [Async Chat Thread - #26/INFO]: [G]|[❇ YisusPalisus] brosky143 ≫ que paso
-[01:52:26] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode creative
-[01:52:26] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Creative Mode]
-[01:52:36] [Server thread/INFO]: NormalyMC was doomed to fall by Cave Spider
-[01:52:42] [Async Chat Thread - #26/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ tmrrrr
-[01:52:48] [Async Chat Thread - #26/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ YA SE ME QUEMARON LAS COSAS
-[01:52:54] [Async Chat Thread - #26/INFO]: [G]|[♚ prueba] _LUDFIXT_ ≫ salve
-[01:52:56] [Async Chat Thread - #26/INFO]: [G]|[♚ prueba] _LUDFIXT_ ≫ un poco de hierro
-[01:52:58] [Async Chat Thread - #26/INFO]: [G]|[♚ prueba] _LUDFIXT_ ≫ 36
-[01:53:06] [Async Chat Thread - #26/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ k
-[01:53:08] [Async Chat Thread - #26/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ tp
-[01:53:23] [Async Chat Thread - #26/INFO]: [G]|[♚ prueba] _LUDFIXT_ ≫ redlox pon
-[01:53:30] [Server thread/INFO]: brosky143 was slain by Zombie
-[01:53:30] [Async Chat Thread - #26/INFO]: [G]|[♚ prueba] _LUDFIXT_ ≫ ./k home
-[01:53:34] [Server thread/INFO]: NormalyMC issued server command: /k home
-[01:53:39] [Async Chat Thread - #26/INFO]: [G]|[❇ YisusPalisus] brosky143 ≫ hay un huevo de mods
-[01:53:41] [Server thread/INFO]: NormalyMC issued server command: /k home
-[01:53:44] [Async Chat Thread - #26/INFO]: [G]|[❇ YisusPalisus] brosky143 ≫ mobs
-[01:53:49] [Craft Scheduler Thread - 137 - Kingdoms/INFO]: [Kingdoms] Auto saving... Checking 0 nations, 2 kingdoms, 2 lands and 3 players.
-[01:53:49] [Async Chat Thread - #26/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ ya
-[01:53:50] [Craft Scheduler Thread - 135 - Kingdoms/INFO]: [KingdomsX] Updating top kingdoms... 2
-[01:53:50] [Async Chat Thread - #26/INFO]: [G]|[♚ prueba] _LUDFIXT_ ≫ donde?
-[01:53:55] [Async Chat Thread - #26/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ oe
-[01:53:57] [Async Chat Thread - #26/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ tp
-[01:53:59] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC
-[01:53:59] [Server thread/INFO]: [_LUDFIXT_: Teleported _LUDFIXT_ to NormalyMC]
-[01:54:06] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp brosky143 _LUDFIXT_
-[01:54:06] [Server thread/INFO]: [_LUDFIXT_: Teleported brosky143 to _LUDFIXT_]
-[01:54:14] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
-[01:54:14] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
-[01:54:29] [Async Chat Thread - #26/INFO]: [G]|[♚ prueba] _LUDFIXT_ ≫ es todo lo que salve
-[01:54:35] [Async Chat Thread - #26/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ dale a yisus
-[01:54:37] [Async Chat Thread - #26/INFO]: [G]|[♚ prueba] _LUDFIXT_ ≫ estan a nada del quit
-[01:54:43] [Async Chat Thread - #26/INFO]: [G]|[♚ prueba] _LUDFIXT_ ≫ eso es todo
-[01:54:47] [Async Chat Thread - #26/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ oe
-[01:54:51] [Async Chat Thread - #26/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ aya
-[01:54:53] [Async Chat Thread - #26/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ yisus
-[01:54:56] [Async Chat Thread - #26/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ ya tenemos creo
-[01:54:57] [Async Chat Thread - #26/INFO]: [G]|[❇ YisusPalisus] brosky143 ≫ q paso
-[01:55:01] [Async Chat Thread - #26/INFO]: [G]|[❇ YisusPalisus] brosky143 ≫ ok
-[01:55:01] [Async Chat Thread - #26/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ aver ago las cuentas
-[01:55:28] [Async Chat Thread - #26/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ si
-[01:55:33] [Async Chat Thread - #27/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ y con 4 de sobra
-[01:55:54] [Async Chat Thread - #27/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ a
-[01:55:57] [Async Chat Thread - #27/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ falta fundir
-[01:56:15] [Async Chat Thread - #27/INFO]: [G]|[♚ prueba] _LUDFIXT_ ≫ si me dan 1 diamante les doy 1 stack de bloques de carbon
-[01:56:27] [Async Chat Thread - #27/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ ehh
-[01:56:30] [Async Chat Thread - #27/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ 1 stack y 32
-[01:56:47] [Async Chat Thread - #27/INFO]: [G]|[♚ prueba] _LUDFIXT_ ≫ si me das 1 diamante te doy 1 stack de carbon
-[01:56:53] [Async Chat Thread - #27/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ 32?
-[01:56:56] [Async Chat Thread - #27/INFO]: [G]|[♚ prueba] _LUDFIXT_ ≫ no
-[01:56:56] [Async Chat Thread - #27/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ 32+
-[01:56:57] [Async Chat Thread - #27/INFO]: [G]|[♚ prueba] _LUDFIXT_ ≫ 64
-[01:57:06] [Server thread/INFO]: _LUDFIXT_ has made the advancement [Diamonds!]
-[01:57:09] [Async Chat Thread - #27/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ funde
-[01:57:10] [Async Chat Thread - #26/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ yisus
-[01:57:16] [Async Chat Thread - #26/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ anda
-[01:57:20] [Async Chat Thread - #26/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ yo me voy denuevo a la mina
-[01:57:31] [Async Chat Thread - #26/INFO]: [G]|[♚ prueba] _LUDFIXT_ ≫ pon a fundir
-[01:57:31] [Async Chat Thread - #26/INFO]: [G]|[❇ YisusPalisus] brosky143 ≫ y el hierro?
-[01:57:34] [Async Chat Thread - #26/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ espera
-[01:57:40] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
-[01:57:40] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
-[01:57:47] [Async Chat Thread - #26/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ queda 31
-[01:58:27] [Async Chat Thread - #26/INFO]: [G]|[♚ prueba] _LUDFIXT_ ≫ puedes poner 1 bloque y ahi ya esta para todo
-[01:58:36] [Async Chat Thread - #26/INFO]: [G]|[❇ YisusPalisus] brosky143 ≫ a ok
-[01:59:28] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC
-[01:59:28] [Server thread/INFO]: [_LUDFIXT_: Teleported _LUDFIXT_ to NormalyMC]
-[01:59:33] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode spectator
-[01:59:33] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Spectator Mode]
-[02:02:39] [Async Chat Thread - #28/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ ya va
-[02:02:42] [Async Chat Thread - #28/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ ya tengo
-[02:02:45] [Server thread/INFO]: NormalyMC issued server command: /k home
-[02:03:21] [Async Chat Thread - #28/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ aronm
-[02:03:26] [Async Chat Thread - #28/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ te voy pagando 64
-[02:03:27] [Async Chat Thread - #28/INFO]: [G]|[♚ prueba] _LUDFIXT_ ≫ dime
-[02:03:38] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC
-[02:03:38] [Server thread/INFO]: [_LUDFIXT_: Teleported _LUDFIXT_ to NormalyMC]
-[02:03:47] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode creative
-[02:03:47] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Creative Mode]
-[02:04:02] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode survival
-[02:04:02] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Survival Mode]
-[02:04:17] [Async Chat Thread - #28/INFO]: [G]|[♚ prueba] _LUDFIXT_ ≫ y el medio stack
-[02:04:25] [Async Chat Thread - #28/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ te voy pagando 64 dije
-[02:04:28] [Server thread/INFO]: _LUDFIXT_ issued server command: /k leave
-[02:05:01] [Server thread/INFO]: _LUDFIXT_ issued server command: /k home
-[02:05:04] [Server thread/INFO]: _LUDFIXT_ issued server command: /k disband
-[02:05:09] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC
-[02:05:09] [Server thread/INFO]: [_LUDFIXT_: Teleported _LUDFIXT_ to NormalyMC]
-[02:06:15] [Async Chat Thread - #30/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ yisus
-[02:06:19] [Async Chat Thread - #30/INFO]: [G]|[❇ YisusPalisus] brosky143 ≫ q paso
-[02:06:24] [Async Chat Thread - #30/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ ven y coloca respawn
-[02:06:48] [Async Chat Thread - #30/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ ire a minar
-[02:06:53] [Async Chat Thread - #30/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ que diga
-[02:06:54] [Async Chat Thread - #30/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ a talar
-[02:06:56] [Async Chat Thread - #30/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ toma
-[02:07:09] [Async Chat Thread - #30/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ cuando llegue a 32 me dices
-[02:07:19] [Async Chat Thread - #30/INFO]: [G]|[❇ YisusPalisus] brosky143 ≫ tengo 34
-[02:07:25] [Async Chat Thread - #30/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ ya
-[02:07:25] [Async Chat Thread - #30/INFO]: [G] _LUDFIXT_ ≫ fundidos?
-[02:07:27] [Async Chat Thread - #30/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ aron
-[02:07:33] [Async Chat Thread - #30/INFO]: [G] _LUDFIXT_ ≫ dame 32 nomas
-[02:07:53] [Async Chat Thread - #30/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ cuanto va
-[02:07:53] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode creative
-[02:07:53] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Creative Mode]
-[02:08:01] [Async Chat Thread - #30/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ aver
-[02:08:04] [Async Chat Thread - #30/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ quien se lleva q
-[02:08:44] [Async Chat Thread - #30/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ quien se llave q
-[02:08:58] [Async Chat Thread - #30/INFO]: [G] _LUDFIXT_ ≫ tu eres el lider
-[02:09:09] [Async Chat Thread - #32/INFO]: [G]|[❇ YisusPalisus] brosky143 ≫ toma 14 de hierro
-[02:09:21] [Async Chat Thread - #32/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ q
-[02:09:24] [Async Chat Thread - #32/INFO]: [G] _LUDFIXT_ ≫ redlox tu reparte
-[02:09:30] [Async Chat Thread - #32/INFO]: [G] _LUDFIXT_ ≫ tu eres el lider
-[02:10:08] [Server thread/INFO]: NormalyMC has made the advancement [Cover Me with Diamonds]
-[02:10:17] [Server thread/INFO]: NormalyMC has made the advancement [Suit Up]
-[02:10:28] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode survival
-[02:10:28] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Survival Mode]
-[02:10:34] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode creative
-[02:10:34] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Creative Mode]
-[02:10:37] [Server thread/INFO]: brosky143 has made the advancement [Cover Me with Diamonds]
-[02:10:43] [Server thread/INFO]: brosky143 has made the advancement [Suit Up]
-[02:11:51] [Async Chat Thread - #33/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ pera
-[02:11:54] [Async Chat Thread - #33/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ no tengo botas
-[02:11:56] [Async Chat Thread - #33/INFO]: [G] _LUDFIXT_ ≫ si me dan la armadura de hierro y 20 de hierro la convierto en una de diamante
-[02:12:09] [Async Chat Thread - #33/INFO]: [G] _LUDFIXT_ ≫ si me dan la armadura de hierro y 20 de hierro la convierto en una de diamante
-[02:12:10] [Async Chat Thread - #33/INFO]: [G]|[❇ YisusPalisus] brosky143 ≫ me diste uno de mas
-[02:12:23] [Async Chat Thread - #33/INFO]: [G] _LUDFIXT_ ≫ si me dan la armadura de hierro y 20 de hierro la convierto en una de diamante
-[02:12:54] [Async Chat Thread - #34/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ falta 5
-[02:13:10] [Async Chat Thread - #34/INFO]: [G] _LUDFIXT_ ≫ denme los 15 entonces
-[02:13:25] [Async Chat Thread - #34/INFO]: [G] _LUDFIXT_ ≫ y la armadura de hierro
-[02:13:31] [Async Chat Thread - #34/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ yisus
-[02:13:34] [Async Chat Thread - #34/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ e
-[02:14:03] [Async Chat Thread - #34/INFO]: [G] _LUDFIXT_ ≫ listo
+[02:17:44] [Craft Scheduler Thread - 2 - Kingdoms/INFO]: [Kingdoms] Setting up nations data...
+[02:17:44] [Craft Scheduler Thread - 2 - Kingdoms/INFO]: [Kingdoms] Done, loaded a total of 0 nations. Took 24ms
+[02:17:44] [Craft Scheduler Thread - 2 - Kingdoms/INFO]: [Kingdoms] Setting up kingdoms data...
+[02:17:44] [Craft Scheduler Thread - 2 - Kingdoms/INFO]: [Kingdoms] Done, loaded a total of 1 kingdoms. Took 85ms
+[02:17:44] [Craft Scheduler Thread - 2 - Kingdoms/INFO]: [Kingdoms] Loading lands data...
+[02:17:44] [Craft Scheduler Thread - 2 - Kingdoms/INFO]: [Kingdoms] Done, loaded a total of 1 lands. Took 6ms
+[02:17:44] [Craft Scheduler Thread - 2 - Kingdoms/INFO]: [KingdomsX] Updating top kingdoms... 1
+[02:18:21] [User Authenticator #0/INFO]: UUID of player _LUDFIXT_ is 5d9d5e4d-c81e-34ff-aa45-3dcd8d540d21
+[02:18:24] [Server thread/INFO]: [Kingdoms] Invalid kingdom data 5672ba3e-e4d2-4ceb-88e7-6401a7804037 for player _LUDFIXT_ (5d9d5e4d-c81e-34ff-aa45-3dcd8d540d21) removing player data...
+[02:18:24] [Server thread/INFO]: _LUDFIXT_[/[0:0:0:0:0:0:0:1%0]:42764] logged in with entity id 164 at ([world]-1161.2894013469308, 39.024424088213685, -225.3159437755175)
+[02:18:25] [Craft Scheduler Thread - 7 - Kingdoms/INFO]: _LUDFIXT_ has joined the server.
+[02:19:07] [User Authenticator #0/INFO]: UUID of player NormalyMC is 02c11b1c-41b7-3a20-ae93-3a10dbf5cc38
+[02:19:08] [Server thread/INFO]: NormalyMC[/[0:0:0:0:0:0:0:1%0]:59364] logged in with entity id 351 at ([world]-1165.1668026228099, 38.199132434492604, -232.48246164359006)
+[02:19:09] [Craft Scheduler Thread - 9 - Kingdoms/INFO]: NormalyMC has joined the server.
+[02:19:14] [User Authenticator #0/INFO]: UUID of player brosky143 is ee5d6d00-3ac7-3110-9dcf-91b2d20683ba
+[02:19:15] [Server thread/INFO]: brosky143[/[0:0:0:0:0:0:0:1%0]:46426] logged in with entity id 364 at ([world]-1166.9810235359773, 40.12160004615784, -234.1691810184352)
+[02:19:16] [Craft Scheduler Thread - 9 - Kingdoms/INFO]: brosky143 has joined the server.
+[02:20:10] [Async Chat Thread - #0/INFO]: [G]|[❇ YisusPalisus] brosky143 ≫ mi armadura?
+[02:20:52] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode survival
+[02:20:52] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Survival Mode]
+[02:20:56] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
+[02:20:56] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
+[02:21:44] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode creative
+[02:21:44] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Creative Mode]
+[02:22:49] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[02:22:52] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[02:22:54] [Server thread/INFO]: --------- Help: Index ---------------------------
+[02:22:54] [Server thread/INFO]: Use /help [n] to get page n of help.
+[02:22:54] [Server thread/INFO]: Aliases: Lists command aliases
+[02:22:54] [Server thread/INFO]: Bukkit: All commands for Bukkit
+[02:22:54] [Server thread/INFO]: Kingdoms: All commands for Kingdoms
+[02:22:54] [Server thread/INFO]: Minecraft: All commands for Minecraft
+[02:22:54] [Server thread/INFO]: /advancement: A Mojang provided command.
+[02:22:54] [Server thread/INFO]: /attribute: A Mojang provided command.
+[02:22:54] [Server thread/INFO]: /ban: A Mojang provided command.
+[02:22:54] [Server thread/INFO]: /ban-ip: A Mojang provided command.
+[02:22:54] [Server thread/INFO]: /banlist: A Mojang provided command.
+[02:22:54] [Server thread/INFO]: /bossbar: A Mojang provided command.
+[02:22:54] [Server thread/INFO]: /callback: ClickEvent callback
+[02:22:54] [Server thread/INFO]: /clear: A Mojang provided command.
+[02:22:54] [Server thread/INFO]: /clone: A Mojang provided command.
+[02:22:54] [Server thread/INFO]: /damage: A Mojang provided command.
+[02:22:54] [Server thread/INFO]: /data: A Mojang provided command.
+[02:22:54] [Server thread/INFO]: /datapack: A Mojang provided command.
+[02:22:54] [Server thread/INFO]: /debug: A Mojang provided command.
+[02:22:54] [Server thread/INFO]: /defaultgamemode: A Mojang provided command.
+[02:22:54] [Server thread/INFO]: /deop: A Mojang provided command.
+[02:22:54] [Server thread/INFO]: /difficulty: A Mojang provided command.
+[02:22:54] [Server thread/INFO]: /effect: A Mojang provided command.
+[02:22:54] [Server thread/INFO]: /enchant: A Mojang provided command.
+[02:22:54] [Server thread/INFO]: /execute: A Mojang provided command.
+[02:22:54] [Server thread/INFO]: /experience: A Mojang provided command.
+[02:22:54] [Server thread/INFO]: /fill: A Mojang provided command.
+[02:22:54] [Server thread/INFO]: /fillbiome: A Mojang provided command.
+[02:22:54] [Server thread/INFO]: /forceload: A Mojang provided command.
+[02:22:54] [Server thread/INFO]: /function: A Mojang provided command.
+[02:22:54] [Server thread/INFO]: /gamemode: A Mojang provided command.
+[02:22:54] [Server thread/INFO]: /gamerule: A Mojang provided command.
+[02:22:54] [Server thread/INFO]: /give: A Mojang provided command.
+[02:22:54] [Server thread/INFO]: /help: Shows the help menu
+[02:22:54] [Server thread/INFO]: /item: A Mojang provided command.
+[02:22:54] [Server thread/INFO]: /jfr: A Mojang provided command.
+[02:22:54] [Server thread/INFO]: /kick: A Mojang provided command.
+[02:22:54] [Server thread/INFO]: /kill: A Mojang provided command.
+[02:22:54] [Server thread/INFO]: /kingdoms: 
+[02:22:54] [Server thread/INFO]: /list: A Mojang provided command.
+[02:22:54] [Server thread/INFO]: /locate: A Mojang provided command.
+[02:22:54] [Server thread/INFO]: /loot: A Mojang provided command.
+[02:22:54] [Server thread/INFO]: /me: A Mojang provided command.
+[02:22:54] [Server thread/INFO]: /minecraft:help: A Mojang provided command.
+[02:22:54] [Server thread/INFO]: /minecraft:reload: A Mojang provided command.
+[02:22:54] [Server thread/INFO]: /msg: A Mojang provided command.
+[02:22:54] [Server thread/INFO]: /mspt: View server tick times
+[02:22:54] [Server thread/INFO]: /op: A Mojang provided command.
+[02:22:54] [Server thread/INFO]: /paper: Paper related commands
+[02:22:54] [Server thread/INFO]: /pardon: A Mojang provided command.
+[02:22:54] [Server thread/INFO]: /pardon-ip: A Mojang provided command.
+[02:22:54] [Server thread/INFO]: /particle: A Mojang provided command.
+[02:22:54] [Server thread/INFO]: /perf: A Mojang provided command.
+[02:22:54] [Server thread/INFO]: /place: A Mojang provided command.
+[02:22:54] [Server thread/INFO]: /playsound: A Mojang provided command.
+[02:22:54] [Server thread/INFO]: /plugins: Gets a list of plugins running on the server
+[02:22:54] [Server thread/INFO]: /random: A Mojang provided command.
+[02:22:54] [Server thread/INFO]: /recipe: A Mojang provided command.
+[02:22:54] [Server thread/INFO]: /reload: Reloads the server configuration and plugins
+[02:22:54] [Server thread/INFO]: /restart: Restarts the server
+[02:22:54] [Server thread/INFO]: /return: A Mojang provided command.
+[02:22:54] [Server thread/INFO]: /ride: A Mojang provided command.
+[02:22:54] [Server thread/INFO]: /save-all: A Mojang provided command.
+[02:22:54] [Server thread/INFO]: /save-off: A Mojang provided command.
+[02:22:54] [Server thread/INFO]: /save-on: A Mojang provided command.
+[02:22:54] [Server thread/INFO]: /say: A Mojang provided command.
+[02:22:54] [Server thread/INFO]: /schedule: A Mojang provided command.
+[02:22:54] [Server thread/INFO]: /scoreboard: A Mojang provided command.
+[02:22:54] [Server thread/INFO]: /seed: A Mojang provided command.
+[02:22:54] [Server thread/INFO]: /setblock: A Mojang provided command.
+[02:22:54] [Server thread/INFO]: /setidletimeout: A Mojang provided command.
+[02:22:54] [Server thread/INFO]: /setworldspawn: A Mojang provided command.
+[02:22:54] [Server thread/INFO]: /spawnpoint: A Mojang provided command.
+[02:22:54] [Server thread/INFO]: /spectate: A Mojang provided command.
+[02:22:54] [Server thread/INFO]: /spigot: Spigot related commands
+[02:22:54] [Server thread/INFO]: /spreadplayers: A Mojang provided command.
+[02:22:54] [Server thread/INFO]: /stop: A Mojang provided command.
+[02:22:54] [Server thread/INFO]: /stopsound: A Mojang provided command.
+[02:22:54] [Server thread/INFO]: /summon: A Mojang provided command.
+[02:22:54] [Server thread/INFO]: /tag: A Mojang provided command.
+[02:22:54] [Server thread/INFO]: /team: A Mojang provided command.
+[02:22:54] [Server thread/INFO]: /teammsg: A Mojang provided command.
+[02:22:54] [Server thread/INFO]: /teleport: A Mojang provided command.
+[02:22:54] [Server thread/INFO]: /tell: A Mojang provided command.
+[02:22:54] [Server thread/INFO]: /tellraw: A Mojang provided command.
+[02:22:54] [Server thread/INFO]: /tick: A Mojang provided command.
+[02:22:54] [Server thread/INFO]: /time: A Mojang provided command.
+[02:22:54] [Server thread/INFO]: /timings: Manages Spigot Timings data to see performance of the server.
+[02:22:54] [Server thread/INFO]: /title: A Mojang provided command.
+[02:22:54] [Server thread/INFO]: /tm: A Mojang provided command.
+[02:22:54] [Server thread/INFO]: /tp: A Mojang provided command.
+[02:22:54] [Server thread/INFO]: /tps: Gets the current ticks per second for the server
+[02:22:54] [Server thread/INFO]: /trigger: A Mojang provided command.
+[02:22:54] [Server thread/INFO]: /version: Gets the version of this server including any plugins in use
+[02:22:54] [Server thread/INFO]: /w: A Mojang provided command.
+[02:22:54] [Server thread/INFO]: /weather: A Mojang provided command.
+[02:22:54] [Server thread/INFO]: /whitelist: A Mojang provided command.
+[02:22:54] [Server thread/INFO]: /worldborder: A Mojang provided command.
+[02:22:54] [Server thread/INFO]: /xp: A Mojang provided command.
+[02:24:33] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode spectator
+[02:24:33] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Spectator Mode]
+[02:24:51] [Async Chat Thread - #1/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ OE
+[02:24:55] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC
+[02:24:55] [Server thread/INFO]: [_LUDFIXT_: Teleported _LUDFIXT_ to NormalyMC]
+[02:24:57] [Async Chat Thread - #1/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ se desapracio la piuerta
+[02:25:00] [Async Chat Thread - #1/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ q diga
+[02:25:07] [Async Chat Thread - #1/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ se desaparecio la puerta
+[02:26:17] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC
+[02:26:17] [Server thread/INFO]: [_LUDFIXT_: Teleported _LUDFIXT_ to NormalyMC]
+[02:26:18] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode creative
+[02:26:18] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Creative Mode]
