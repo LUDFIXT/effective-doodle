@@ -536,7 +536,8 @@
     "criteria": {
       "mutton": "2025-02-10 00:25:18 +0000",
       "chicken": "2025-02-10 00:10:21 +0000",
-      "cooked_mutton": "2025-02-10 00:44:11 +0000"
+      "cooked_mutton": "2025-02-10 00:44:11 +0000",
+      "golden_carrot": "2025-02-10 00:55:46 +0000"
     },
     "done": false
   },
@@ -981,6 +982,12 @@
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-10 00:39:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-02-10 00:54:57 +0000"
     },
     "done": true
   },
