@@ -140,3 +140,8 @@ Latest Version: v1.17.8-BETA
 [22:36:04] [Server thread/INFO]: NormalyMC[/[0:0:0:0:0:0:0:1%0]:47974] logged in with entity id 3900 at ([world]50086.51102772837, 79.0, 640.1712140337972)
 [22:36:05] [Craft Scheduler Thread - 28 - Kingdoms/INFO]: NormalyMC has joined the server.
 [22:36:54] [Server thread/INFO]: NormalyMC issued server command: /k home
+[22:40:34] [Craft Scheduler Thread - 42 - Kingdoms/INFO]: [Kingdoms] Auto saving... Checking 0 nations, 1 kingdoms, 1 lands and 3 players.
+[22:40:35] [Craft Scheduler Thread - 36 - Kingdoms/INFO]: [KingdomsX] Updating top kingdoms... 1
+[22:46:59] [Server thread/INFO]: NormalyMC was shot by Skeleton
+[22:47:03] [Server thread/INFO]: NormalyMC lost connection: Timed out
+[22:47:03] [Server thread/INFO]: NormalyMC has left the server.
