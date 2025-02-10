@@ -1,430 +1,122 @@
-[02:17:26] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[02:17:31] [ServerMain/INFO]: Loaded 1174 recipes
-[02:17:31] [ServerMain/INFO]: Loaded 1271 advancements
-[02:17:31] [Server thread/INFO]: Starting minecraft server version 1.20.4
-[02:17:31] [Server thread/INFO]: Loading properties
-[02:17:31] [Server thread/INFO]: This server is running Paper version git-Paper-497 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT) (Git: d8d54d9 on ver/1.20.4)
-[02:17:32] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[02:17:32] [Server thread/INFO]: Using 4 threads for Netty based IO
-[02:17:33] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+[21:32:27] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21:32:30] [ServerMain/INFO]: Loaded 1174 recipes
+[21:32:30] [ServerMain/INFO]: Loaded 1271 advancements
+[21:32:30] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[21:32:30] [Server thread/INFO]: Loading properties
+[21:32:30] [Server thread/INFO]: This server is running Paper version git-Paper-497 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT) (Git: d8d54d9 on ver/1.20.4)
+[21:32:31] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[21:32:31] [Server thread/INFO]: Using 4 threads for Netty based IO
+[21:32:32] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
     We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
     For more information please visit: https://github.com/PaperMC/Paper/issues/8948
-[02:17:33] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
-[02:17:33] [Server thread/INFO]: Default game type: SURVIVAL
-[02:17:33] [Server thread/INFO]: Generating keypair
-[02:17:34] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:17:34] [Server thread/INFO]: Using epoll channel type
-[02:17:34] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[02:17:34] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[02:17:34] [Server thread/INFO]: [KingdomsX] Checking libraries...
-[02:17:34] [Server thread/INFO]: [KingdomsX] Loading server plugin Kingdoms v1.16.20.5
-[02:17:35] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[02:17:35] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:17:35] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[02:17:35] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:17:35] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:17:35] [Server thread/INFO]: Preparing level "world"
-[02:17:36] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:17:36] [Server thread/INFO]: Time elapsed: 225 ms
-[02:17:36] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[02:17:36] [Server thread/INFO]: Time elapsed: 138 ms
-[02:17:36] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[02:17:37] [Server thread/INFO]: Time elapsed: 952 ms
-[02:17:37] [Server thread/INFO]: [KingdomsX] Enabling Kingdoms v1.16.20.5
-[02:17:38] [Server thread/INFO]: [KingdomsX] Loading language: EN (version 937728e7c35c84db81db3eb85835f691b97c249b)
-[02:17:39] [Server thread/INFO]: [KingdomsX] Default language: EN (English)
-[02:17:39] [Server thread/INFO]: [Kingdoms] Registering Structure: extractor
-[02:17:39] [Server thread/INFO]: [Kingdoms] Registering Structure: national-nexus
-[02:17:39] [Server thread/INFO]: [Kingdoms] Registering Structure: siege-cannon
-[02:17:39] [Server thread/INFO]: [Kingdoms] Registering Structure: warppad
-[02:17:39] [Server thread/INFO]: [Kingdoms] Registering Structure: powercell
-[02:17:39] [Server thread/INFO]: [Kingdoms] Registering Structure: regulator
-[02:17:39] [Server thread/INFO]: [Kingdoms] Registering Structure: outpost
-[02:17:39] [Server thread/INFO]: [Kingdoms] Registering Structure: nexus
-[02:17:39] [Server thread/INFO]: [Kingdoms] Registering Turret: hellfire
-[02:17:39] [Server thread/INFO]: [Kingdoms] Registering Turret: explosive-mine
-[02:17:39] [Server thread/INFO]: [Kingdoms] Registering Turret: inferno
-[02:17:39] [Server thread/INFO]: [Kingdoms] Registering Turret: spring
-[02:17:39] [Server thread/INFO]: [Kingdoms] Registering Turret: healing
-[02:17:39] [Server thread/INFO]: [Kingdoms] Registering Turret: heatbeam
-[02:17:39] [Server thread/INFO]: [Kingdoms] Registering Turret: soldier
-[02:17:39] [Server thread/INFO]: [Kingdoms] Registering Turret: psionic
-[02:17:39] [Server thread/INFO]: [Kingdoms] Registering Turret: flame
-[02:17:39] [Server thread/INFO]: [Kingdoms] Registering Turret: arrow
-[02:17:39] [Server thread/INFO]: [Kingdoms] Registering Turret: chemical-mine
-[02:17:42] [Server thread/INFO]: [Kingdoms] Citizens not found.
-[02:17:42] [Server thread/INFO]: [Kingdoms] MyPet not found.
-[02:17:42] [Server thread/INFO]: [Kingdoms] MCPets not found.
-[02:17:42] [Server thread/INFO]: [Kingdoms] MVdWPlaceholderAPI not found.
-[02:17:42] [Server thread/INFO]: [Kingdoms] PlaceholderAPI not found.
-[02:17:42] [Server thread/INFO]: [Kingdoms] ProjectKorra not found.
-[02:17:42] [Server thread/INFO]: [Kingdoms] WorldGuard not found.
-[02:17:42] [Server thread/INFO]: [Kingdoms] WorldEdit not found.
-[02:17:42] [Server thread/INFO]: [Kingdoms] Vault not found.
-[02:17:42] [Server thread/INFO]: [Kingdoms] AuthMe not found.
-[02:17:42] [Server thread/INFO]: [Kingdoms] DiscordSRV not found.
-[02:17:42] [Server thread/INFO]: [Kingdoms] LuckPerms not found.
-[02:17:42] [Server thread/INFO]: [Kingdoms] MythicMobs not found.
-[02:17:42] [Server thread/INFO]: [Kingdoms] Essentials not found.
-[02:17:42] [Server thread/INFO]: [Kingdoms] CMI not found.
-[02:17:42] [Server thread/INFO]: [Kingdoms] Slimefun not found.
-[02:17:42] [Server thread/INFO]: [Kingdoms] dynmap not found.
-[02:17:42] [Server thread/INFO]: [Kingdoms] BlueMap not found.
-[02:17:42] [Server thread/INFO]: [Kingdoms] squaremap not found.
-[02:17:42] [Server thread/INFO]: [Kingdoms] Pl3xMap not found.
-[02:17:42] [pool-15-thread-1/INFO]: [Kingdoms] Taking a backup...
-[02:17:42] [pool-15-thread-1/INFO]: [Kingdoms] You already have a backup for today!
-[02:17:42] [Server thread/INFO]: [KingdomsX] Loading libraries for h2 database...
-[02:17:42] [Server thread/INFO]: [KingdomsX] Loaded all libraries.
-[02:17:42] [Server thread/INFO]: [KingdomsX] Running H2 SQL Database:
-[02:17:42] [Server thread/INFO]: [KingdomsX]    | Driver: H2 JDBC Driver (catalog) | 2.1.214 (2022-06-13)
-[02:17:42] [Server thread/INFO]: [KingdomsX]    | Product: H2 | 2.1.214 (2022-06-13)
-[02:17:42] [Server thread/INFO]: [KingdomsX]    | JDBC: 4.2
-[02:17:42] [Server thread/INFO]: [KingdomsX] A total of 77 loaded chunks has been queried.
-[02:17:42] [kingdoms-worker-0/INFO]: [Kingdoms] Checking for updates...
-[02:17:42] [Server thread/INFO]: [KingdomsX] Loading all players...
-[02:17:43] [Server thread/INFO]: Running delayed init tasks
-[02:17:43] [Server thread/INFO]: Done (11.374s)! For help, type "help"
-[02:17:43] [Server thread/INFO]: Timings Reset
-[02:17:43] [Craft Scheduler Thread - 3 - Kingdoms/INFO]: [Kingdoms] -=-=-=-=-=-=-=-=-=-=-=-=-
+[21:32:32] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[21:32:32] [Server thread/INFO]: Default game type: SURVIVAL
+[21:32:32] [Server thread/INFO]: Generating keypair
+[21:32:32] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:32:33] [Server thread/INFO]: Using epoll channel type
+[21:32:33] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[21:32:33] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[21:32:33] [Server thread/INFO]: [KingdomsX] Checking libraries...
+[21:32:34] [Server thread/INFO]: [KingdomsX] Loading server plugin Kingdoms v1.16.20.5
+[21:32:34] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[21:32:34] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:32:34] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:32:34] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:32:34] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:32:34] [Server thread/INFO]: Preparing level "world"
+[21:32:35] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:32:35] [Server thread/INFO]: Time elapsed: 366 ms
+[21:32:35] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[21:32:36] [Server thread/INFO]: Time elapsed: 1082 ms
+[21:32:36] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[21:32:37] [Server thread/INFO]: Time elapsed: 79 ms
+[21:32:37] [Server thread/INFO]: [KingdomsX] Enabling Kingdoms v1.16.20.5
+[21:32:38] [Server thread/INFO]: [KingdomsX] Loading language: EN (version 937728e7c35c84db81db3eb85835f691b97c249b)
+[21:32:38] [Server thread/INFO]: [KingdomsX] Default language: EN (English)
+[21:32:38] [Server thread/INFO]: [Kingdoms] Registering Structure: extractor
+[21:32:38] [Server thread/INFO]: [Kingdoms] Registering Structure: national-nexus
+[21:32:38] [Server thread/INFO]: [Kingdoms] Registering Structure: siege-cannon
+[21:32:38] [Server thread/INFO]: [Kingdoms] Registering Structure: warppad
+[21:32:38] [Server thread/INFO]: [Kingdoms] Registering Structure: powercell
+[21:32:38] [Server thread/INFO]: [Kingdoms] Registering Structure: regulator
+[21:32:38] [Server thread/INFO]: [Kingdoms] Registering Structure: outpost
+[21:32:38] [Server thread/INFO]: [Kingdoms] Registering Structure: nexus
+[21:32:38] [Server thread/INFO]: [Kingdoms] Registering Turret: hellfire
+[21:32:38] [Server thread/INFO]: [Kingdoms] Registering Turret: explosive-mine
+[21:32:38] [Server thread/INFO]: [Kingdoms] Registering Turret: inferno
+[21:32:38] [Server thread/INFO]: [Kingdoms] Registering Turret: spring
+[21:32:38] [Server thread/INFO]: [Kingdoms] Registering Turret: healing
+[21:32:38] [Server thread/INFO]: [Kingdoms] Registering Turret: heatbeam
+[21:32:38] [Server thread/INFO]: [Kingdoms] Registering Turret: soldier
+[21:32:38] [Server thread/INFO]: [Kingdoms] Registering Turret: psionic
+[21:32:38] [Server thread/INFO]: [Kingdoms] Registering Turret: flame
+[21:32:38] [Server thread/INFO]: [Kingdoms] Registering Turret: arrow
+[21:32:38] [Server thread/INFO]: [Kingdoms] Registering Turret: chemical-mine
+[21:32:41] [Server thread/INFO]: [Kingdoms] Citizens not found.
+[21:32:41] [Server thread/INFO]: [Kingdoms] MyPet not found.
+[21:32:41] [Server thread/INFO]: [Kingdoms] MCPets not found.
+[21:32:41] [Server thread/INFO]: [Kingdoms] MVdWPlaceholderAPI not found.
+[21:32:41] [Server thread/INFO]: [Kingdoms] PlaceholderAPI not found.
+[21:32:41] [Server thread/INFO]: [Kingdoms] ProjectKorra not found.
+[21:32:41] [Server thread/INFO]: [Kingdoms] WorldGuard not found.
+[21:32:41] [Server thread/INFO]: [Kingdoms] WorldEdit not found.
+[21:32:41] [Server thread/INFO]: [Kingdoms] Vault not found.
+[21:32:41] [Server thread/INFO]: [Kingdoms] AuthMe not found.
+[21:32:41] [Server thread/INFO]: [Kingdoms] DiscordSRV not found.
+[21:32:41] [Server thread/INFO]: [Kingdoms] LuckPerms not found.
+[21:32:41] [Server thread/INFO]: [Kingdoms] MythicMobs not found.
+[21:32:41] [Server thread/INFO]: [Kingdoms] Essentials not found.
+[21:32:41] [Server thread/INFO]: [Kingdoms] CMI not found.
+[21:32:41] [Server thread/INFO]: [Kingdoms] Slimefun not found.
+[21:32:41] [Server thread/INFO]: [Kingdoms] dynmap not found.
+[21:32:41] [Server thread/INFO]: [Kingdoms] BlueMap not found.
+[21:32:41] [Server thread/INFO]: [Kingdoms] squaremap not found.
+[21:32:41] [Server thread/INFO]: [Kingdoms] Pl3xMap not found.
+[21:32:41] [pool-15-thread-1/INFO]: [Kingdoms] Taking a backup...
+[21:32:41] [pool-15-thread-1/INFO]: [Kingdoms] You already have a backup for today!
+[21:32:41] [Server thread/INFO]: [KingdomsX] Loading libraries for h2 database...
+[21:32:41] [Server thread/INFO]: [KingdomsX] Loaded all libraries.
+[21:32:41] [Server thread/INFO]: [KingdomsX] Running H2 SQL Database:
+[21:32:41] [Server thread/INFO]: [KingdomsX]    | Driver: H2 JDBC Driver (catalog) | 2.1.214 (2022-06-13)
+[21:32:41] [Server thread/INFO]: [KingdomsX]    | Product: H2 | 2.1.214 (2022-06-13)
+[21:32:41] [Server thread/INFO]: [KingdomsX]    | JDBC: 4.2
+[21:32:42] [Server thread/INFO]: [KingdomsX] A total of 85 loaded chunks has been queried.
+[21:32:42] [kingdoms-worker-0/INFO]: [Kingdoms] Checking for updates...
+[21:32:42] [Server thread/INFO]: [KingdomsX] Loading all players...
+[21:32:42] [Server thread/INFO]: Running delayed init tasks
+[21:32:42] [Server thread/INFO]: Done (11.819s)! For help, type "help"
+[21:32:42] [Server thread/INFO]: Timings Reset
+[21:32:42] [Craft Scheduler Thread - 3 - Kingdoms/INFO]: [Kingdoms] -=-=-=-=-=-=-=-=-=-=-=-=-
 There is an update available!
 Current Version: v1.16.20.5
 Latest Version: v1.17.8-BETA
 -=-=-=-=-=-=-=-=-=-=-=-=-
-[02:17:44] [Craft Scheduler Thread - 2 - Kingdoms/INFO]: [Kingdoms] Setting up nations data...
-[02:17:44] [Craft Scheduler Thread - 2 - Kingdoms/INFO]: [Kingdoms] Done, loaded a total of 0 nations. Took 24ms
-[02:17:44] [Craft Scheduler Thread - 2 - Kingdoms/INFO]: [Kingdoms] Setting up kingdoms data...
-[02:17:44] [Craft Scheduler Thread - 2 - Kingdoms/INFO]: [Kingdoms] Done, loaded a total of 1 kingdoms. Took 85ms
-[02:17:44] [Craft Scheduler Thread - 2 - Kingdoms/INFO]: [Kingdoms] Loading lands data...
-[02:17:44] [Craft Scheduler Thread - 2 - Kingdoms/INFO]: [Kingdoms] Done, loaded a total of 1 lands. Took 6ms
-[02:17:44] [Craft Scheduler Thread - 2 - Kingdoms/INFO]: [KingdomsX] Updating top kingdoms... 1
-[02:18:21] [User Authenticator #0/INFO]: UUID of player _LUDFIXT_ is 5d9d5e4d-c81e-34ff-aa45-3dcd8d540d21
-[02:18:24] [Server thread/INFO]: [Kingdoms] Invalid kingdom data 5672ba3e-e4d2-4ceb-88e7-6401a7804037 for player _LUDFIXT_ (5d9d5e4d-c81e-34ff-aa45-3dcd8d540d21) removing player data...
-[02:18:24] [Server thread/INFO]: _LUDFIXT_[/[0:0:0:0:0:0:0:1%0]:42764] logged in with entity id 164 at ([world]-1161.2894013469308, 39.024424088213685, -225.3159437755175)
-[02:18:25] [Craft Scheduler Thread - 7 - Kingdoms/INFO]: _LUDFIXT_ has joined the server.
-[02:19:07] [User Authenticator #0/INFO]: UUID of player NormalyMC is 02c11b1c-41b7-3a20-ae93-3a10dbf5cc38
-[02:19:08] [Server thread/INFO]: NormalyMC[/[0:0:0:0:0:0:0:1%0]:59364] logged in with entity id 351 at ([world]-1165.1668026228099, 38.199132434492604, -232.48246164359006)
-[02:19:09] [Craft Scheduler Thread - 9 - Kingdoms/INFO]: NormalyMC has joined the server.
-[02:19:14] [User Authenticator #0/INFO]: UUID of player brosky143 is ee5d6d00-3ac7-3110-9dcf-91b2d20683ba
-[02:19:15] [Server thread/INFO]: brosky143[/[0:0:0:0:0:0:0:1%0]:46426] logged in with entity id 364 at ([world]-1166.9810235359773, 40.12160004615784, -234.1691810184352)
-[02:19:16] [Craft Scheduler Thread - 9 - Kingdoms/INFO]: brosky143 has joined the server.
-[02:20:10] [Async Chat Thread - #0/INFO]: [G]|[❇ YisusPalisus] brosky143 ≫ mi armadura?
-[02:20:52] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode survival
-[02:20:52] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Survival Mode]
-[02:20:56] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
-[02:20:56] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
-[02:21:44] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode creative
-[02:21:44] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Creative Mode]
-[02:22:49] [Server thread/INFO]: Unknown command. Type "/help" for help.
-[02:22:52] [Server thread/INFO]: Unknown command. Type "/help" for help.
-[02:22:54] [Server thread/INFO]: --------- Help: Index ---------------------------
-[02:22:54] [Server thread/INFO]: Use /help [n] to get page n of help.
-[02:22:54] [Server thread/INFO]: Aliases: Lists command aliases
-[02:22:54] [Server thread/INFO]: Bukkit: All commands for Bukkit
-[02:22:54] [Server thread/INFO]: Kingdoms: All commands for Kingdoms
-[02:22:54] [Server thread/INFO]: Minecraft: All commands for Minecraft
-[02:22:54] [Server thread/INFO]: /advancement: A Mojang provided command.
-[02:22:54] [Server thread/INFO]: /attribute: A Mojang provided command.
-[02:22:54] [Server thread/INFO]: /ban: A Mojang provided command.
-[02:22:54] [Server thread/INFO]: /ban-ip: A Mojang provided command.
-[02:22:54] [Server thread/INFO]: /banlist: A Mojang provided command.
-[02:22:54] [Server thread/INFO]: /bossbar: A Mojang provided command.
-[02:22:54] [Server thread/INFO]: /callback: ClickEvent callback
-[02:22:54] [Server thread/INFO]: /clear: A Mojang provided command.
-[02:22:54] [Server thread/INFO]: /clone: A Mojang provided command.
-[02:22:54] [Server thread/INFO]: /damage: A Mojang provided command.
-[02:22:54] [Server thread/INFO]: /data: A Mojang provided command.
-[02:22:54] [Server thread/INFO]: /datapack: A Mojang provided command.
-[02:22:54] [Server thread/INFO]: /debug: A Mojang provided command.
-[02:22:54] [Server thread/INFO]: /defaultgamemode: A Mojang provided command.
-[02:22:54] [Server thread/INFO]: /deop: A Mojang provided command.
-[02:22:54] [Server thread/INFO]: /difficulty: A Mojang provided command.
-[02:22:54] [Server thread/INFO]: /effect: A Mojang provided command.
-[02:22:54] [Server thread/INFO]: /enchant: A Mojang provided command.
-[02:22:54] [Server thread/INFO]: /execute: A Mojang provided command.
-[02:22:54] [Server thread/INFO]: /experience: A Mojang provided command.
-[02:22:54] [Server thread/INFO]: /fill: A Mojang provided command.
-[02:22:54] [Server thread/INFO]: /fillbiome: A Mojang provided command.
-[02:22:54] [Server thread/INFO]: /forceload: A Mojang provided command.
-[02:22:54] [Server thread/INFO]: /function: A Mojang provided command.
-[02:22:54] [Server thread/INFO]: /gamemode: A Mojang provided command.
-[02:22:54] [Server thread/INFO]: /gamerule: A Mojang provided command.
-[02:22:54] [Server thread/INFO]: /give: A Mojang provided command.
-[02:22:54] [Server thread/INFO]: /help: Shows the help menu
-[02:22:54] [Server thread/INFO]: /item: A Mojang provided command.
-[02:22:54] [Server thread/INFO]: /jfr: A Mojang provided command.
-[02:22:54] [Server thread/INFO]: /kick: A Mojang provided command.
-[02:22:54] [Server thread/INFO]: /kill: A Mojang provided command.
-[02:22:54] [Server thread/INFO]: /kingdoms: 
-[02:22:54] [Server thread/INFO]: /list: A Mojang provided command.
-[02:22:54] [Server thread/INFO]: /locate: A Mojang provided command.
-[02:22:54] [Server thread/INFO]: /loot: A Mojang provided command.
-[02:22:54] [Server thread/INFO]: /me: A Mojang provided command.
-[02:22:54] [Server thread/INFO]: /minecraft:help: A Mojang provided command.
-[02:22:54] [Server thread/INFO]: /minecraft:reload: A Mojang provided command.
-[02:22:54] [Server thread/INFO]: /msg: A Mojang provided command.
-[02:22:54] [Server thread/INFO]: /mspt: View server tick times
-[02:22:54] [Server thread/INFO]: /op: A Mojang provided command.
-[02:22:54] [Server thread/INFO]: /paper: Paper related commands
-[02:22:54] [Server thread/INFO]: /pardon: A Mojang provided command.
-[02:22:54] [Server thread/INFO]: /pardon-ip: A Mojang provided command.
-[02:22:54] [Server thread/INFO]: /particle: A Mojang provided command.
-[02:22:54] [Server thread/INFO]: /perf: A Mojang provided command.
-[02:22:54] [Server thread/INFO]: /place: A Mojang provided command.
-[02:22:54] [Server thread/INFO]: /playsound: A Mojang provided command.
-[02:22:54] [Server thread/INFO]: /plugins: Gets a list of plugins running on the server
-[02:22:54] [Server thread/INFO]: /random: A Mojang provided command.
-[02:22:54] [Server thread/INFO]: /recipe: A Mojang provided command.
-[02:22:54] [Server thread/INFO]: /reload: Reloads the server configuration and plugins
-[02:22:54] [Server thread/INFO]: /restart: Restarts the server
-[02:22:54] [Server thread/INFO]: /return: A Mojang provided command.
-[02:22:54] [Server thread/INFO]: /ride: A Mojang provided command.
-[02:22:54] [Server thread/INFO]: /save-all: A Mojang provided command.
-[02:22:54] [Server thread/INFO]: /save-off: A Mojang provided command.
-[02:22:54] [Server thread/INFO]: /save-on: A Mojang provided command.
-[02:22:54] [Server thread/INFO]: /say: A Mojang provided command.
-[02:22:54] [Server thread/INFO]: /schedule: A Mojang provided command.
-[02:22:54] [Server thread/INFO]: /scoreboard: A Mojang provided command.
-[02:22:54] [Server thread/INFO]: /seed: A Mojang provided command.
-[02:22:54] [Server thread/INFO]: /setblock: A Mojang provided command.
-[02:22:54] [Server thread/INFO]: /setidletimeout: A Mojang provided command.
-[02:22:54] [Server thread/INFO]: /setworldspawn: A Mojang provided command.
-[02:22:54] [Server thread/INFO]: /spawnpoint: A Mojang provided command.
-[02:22:54] [Server thread/INFO]: /spectate: A Mojang provided command.
-[02:22:54] [Server thread/INFO]: /spigot: Spigot related commands
-[02:22:54] [Server thread/INFO]: /spreadplayers: A Mojang provided command.
-[02:22:54] [Server thread/INFO]: /stop: A Mojang provided command.
-[02:22:54] [Server thread/INFO]: /stopsound: A Mojang provided command.
-[02:22:54] [Server thread/INFO]: /summon: A Mojang provided command.
-[02:22:54] [Server thread/INFO]: /tag: A Mojang provided command.
-[02:22:54] [Server thread/INFO]: /team: A Mojang provided command.
-[02:22:54] [Server thread/INFO]: /teammsg: A Mojang provided command.
-[02:22:54] [Server thread/INFO]: /teleport: A Mojang provided command.
-[02:22:54] [Server thread/INFO]: /tell: A Mojang provided command.
-[02:22:54] [Server thread/INFO]: /tellraw: A Mojang provided command.
-[02:22:54] [Server thread/INFO]: /tick: A Mojang provided command.
-[02:22:54] [Server thread/INFO]: /time: A Mojang provided command.
-[02:22:54] [Server thread/INFO]: /timings: Manages Spigot Timings data to see performance of the server.
-[02:22:54] [Server thread/INFO]: /title: A Mojang provided command.
-[02:22:54] [Server thread/INFO]: /tm: A Mojang provided command.
-[02:22:54] [Server thread/INFO]: /tp: A Mojang provided command.
-[02:22:54] [Server thread/INFO]: /tps: Gets the current ticks per second for the server
-[02:22:54] [Server thread/INFO]: /trigger: A Mojang provided command.
-[02:22:54] [Server thread/INFO]: /version: Gets the version of this server including any plugins in use
-[02:22:54] [Server thread/INFO]: /w: A Mojang provided command.
-[02:22:54] [Server thread/INFO]: /weather: A Mojang provided command.
-[02:22:54] [Server thread/INFO]: /whitelist: A Mojang provided command.
-[02:22:54] [Server thread/INFO]: /worldborder: A Mojang provided command.
-[02:22:54] [Server thread/INFO]: /xp: A Mojang provided command.
-[02:24:33] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode spectator
-[02:24:33] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Spectator Mode]
-[02:24:51] [Async Chat Thread - #1/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ OE
-[02:24:55] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC
-[02:24:55] [Server thread/INFO]: [_LUDFIXT_: Teleported _LUDFIXT_ to NormalyMC]
-[02:24:57] [Async Chat Thread - #1/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ se desapracio la piuerta
-[02:25:00] [Async Chat Thread - #1/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ q diga
-[02:25:07] [Async Chat Thread - #1/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ se desaparecio la puerta
-[02:26:17] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC
-[02:26:17] [Server thread/INFO]: [_LUDFIXT_: Teleported _LUDFIXT_ to NormalyMC]
-[02:26:18] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode creative
-[02:26:18] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Creative Mode]
-[02:31:33] [Server thread/INFO]: _LUDFIXT_ has made the advancement [The Parrots and the Bats]
-[02:34:43] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC
-[02:34:43] [Server thread/INFO]: [_LUDFIXT_: Teleported _LUDFIXT_ to NormalyMC]
-[02:34:47] [Server thread/INFO]: Named entity EntityChicken['Yisreron'/181, uuid='8ea60c45-50a5-40f1-bcd5-0de1d761c078', l='ServerLevel[world]', x=-1142.93, y=54.92, z=-228.61, cpos=[-72, -15], tl=111178, v=true] died: Yisreron went up in flames
-[02:38:34] [Server thread/INFO]: brosky143 lost connection: Timed out
-[02:38:34] [Server thread/INFO]: brosky143 has left the server.
-[02:38:57] [Server thread/INFO]: _LUDFIXT_ issued server command: /k create redloxbot
-[02:38:59] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[02:39:07] [Server thread/INFO]: _LUDFIXT_ issued server command: /k invade
-[02:39:11] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode survival
-[02:39:11] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Survival Mode]
-[02:39:13] [Server thread/INFO]: _LUDFIXT_ issued server command: /k invade
-[02:40:05] [Server thread/INFO]: _LUDFIXT_ issued server command: /k invade
-[02:40:07] [Server thread/INFO]: _LUDFIXT_ issued server command: /k invade
-[02:40:21] [Server thread/INFO]: _LUDFIXT_ issued server command: /k invade
-[02:40:27] [Server thread/INFO]: _LUDFIXT_ issued server command: /k disband
-[02:40:31] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode creative
-[02:40:31] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Creative Mode]
-[02:41:16] [Async Chat Thread - #3/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ jj
-[02:41:17] [Server thread/INFO]: _LUDFIXT_ issued server command: /time set day
-[02:41:17] [Server thread/INFO]: [_LUDFIXT_: Set the time to 1000]
-[02:41:17] [Async Chat Thread - #3/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ kk
-[02:41:19] [Async Chat Thread - #3/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ aron
-[02:41:20] [Async Chat Thread - #3/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ kk
-[02:41:21] [Async Chat Thread - #3/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ ktktktk
-[02:41:21] [Async Chat Thread - #3/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ ktktktkt
-[02:41:23] [Async Chat Thread - #3/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ kk
-[02:41:26] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
-[02:41:26] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
-[02:41:35] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode survival
-[02:41:35] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Survival Mode]
-[02:41:41] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode creative
-[02:41:41] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Creative Mode]
-[02:41:58] [Server thread/INFO]: NormalyMC issued server command: /k home
-[02:43:01] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
-[02:43:01] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
-[02:43:15] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode survival
-[02:43:15] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Survival Mode]
-[02:43:28] [Server thread/INFO]: _LUDFIXT_ has made the advancement [Ol' Betsy]
-[02:44:04] [Server thread/INFO]: _LUDFIXT_ issued server command: /kick NormalyMC hacks
-[02:44:04] [Server thread/INFO]: NormalyMC lost connection: hacks
-[02:44:04] [Server thread/INFO]: NormalyMC has left the server.
-[02:44:04] [Server thread/INFO]: [_LUDFIXT_: Kicked NormalyMC: hacks]
-[02:46:54] [User Authenticator #1/INFO]: UUID of player NormalyMC is 02c11b1c-41b7-3a20-ae93-3a10dbf5cc38
-[02:46:55] [Server thread/INFO]: NormalyMC[/[0:0:0:0:0:0:0:1%0]:39172] logged in with entity id 4354 at ([world]-1224.0224744035556, 64.34923770368529, -101.2108244739759)
-[02:46:56] [Craft Scheduler Thread - 68 - Kingdoms/INFO]: NormalyMC has joined the server.
-[02:47:25] [Server thread/INFO]: NormalyMC was slain by _LUDFIXT_
-[02:47:33] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
-[02:47:33] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
-[02:47:42] [Craft Scheduler Thread - 72 - Kingdoms/INFO]: [Kingdoms] Auto saving... Checking 0 nations, 1 kingdoms, 1 lands and 3 players.
-[02:47:44] [Craft Scheduler Thread - 66 - Kingdoms/INFO]: [KingdomsX] Updating top kingdoms... 1
-[02:48:57] [Server thread/INFO]: _LUDFIXT_ has made the advancement [Take Aim]
-[02:49:32] [Server thread/INFO]: NormalyMC was slain by _LUDFIXT_
-[02:49:40] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode creative
-[02:49:40] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Creative Mode]
-[02:49:44] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode survival
-[02:49:44] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Survival Mode]
-[02:49:52] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
-[02:49:52] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
-[02:50:21] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode creative
-[02:50:21] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Creative Mode]
-[02:50:56] [Server thread/INFO]: _LUDFIXT_ issued server command: /kill NormalyMC
-[02:50:56] [Server thread/INFO]: NormalyMC was killed
-[02:50:56] [Server thread/INFO]: [_LUDFIXT_: Killed NormalyMC]
-[02:51:02] [Async Chat Thread - #5/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ TP
-[02:51:04] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
-[02:51:04] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
-[02:51:11] [Server thread/INFO]: _LUDFIXT_ issued server command: /kill NormalyMC
-[02:51:11] [Server thread/INFO]: NormalyMC was killed
-[02:51:11] [Server thread/INFO]: [_LUDFIXT_: Killed NormalyMC]
-[02:51:15] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
-[02:51:15] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
-[02:51:19] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
-[02:51:19] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
-[02:51:21] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
-[02:51:21] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
-[02:51:21] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
-[02:51:21] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
-[02:51:21] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
-[02:51:21] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
-[02:51:22] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
-[02:51:22] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
-[02:51:22] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
-[02:51:22] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
-[02:51:22] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
-[02:51:22] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
-[02:51:25] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
-[02:51:25] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
-[02:51:29] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
-[02:51:29] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
-[02:51:31] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
-[02:51:31] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
-[02:51:34] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
-[02:51:34] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
-[02:51:35] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
-[02:51:35] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
-[02:51:38] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
-[02:51:38] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
-[02:51:39] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
-[02:51:39] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
-[02:51:40] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
-[02:51:40] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
-[02:51:47] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
-[02:51:47] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
-[02:51:49] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
-[02:51:49] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
-[02:51:53] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
-[02:51:53] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
-[02:51:56] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
-[02:51:56] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
-[02:51:59] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
-[02:51:59] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
-[02:52:01] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
-[02:52:01] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
-[02:52:07] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
-[02:52:07] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
-[02:52:10] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
-[02:52:10] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
-[02:52:11] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
-[02:52:11] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
-[02:52:17] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
-[02:52:17] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
-[02:52:18] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
-[02:52:18] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
-[02:52:20] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
-[02:52:20] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
-[02:52:22] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
-[02:52:22] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
-[02:52:28] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
-[02:52:28] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
-[02:52:33] [Server thread/INFO]: NormalyMC fell from a high place
-[02:52:39] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
-[02:52:39] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
-[02:52:40] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
-[02:52:40] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
-[02:52:45] [Server thread/INFO]: NormalyMC fell from a high place
-[02:52:50] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
-[02:52:50] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
-[02:53:58] [Server thread/INFO]: _LUDFIXT_ issued server command: /difficulty hard
-[02:53:58] [Server thread/INFO]: [_LUDFIXT_: The difficulty has been set to Hard]
-[02:54:10] [Server thread/INFO]: _LUDFIXT_ issued server command: /difficulty hard
-[02:54:13] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
-[02:54:13] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
-[02:54:15] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
-[02:54:15] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
-[02:54:16] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
-[02:54:16] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
-[02:54:16] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
-[02:54:16] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
-[02:54:16] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
-[02:54:16] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
-[02:54:17] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
-[02:54:17] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
-[02:54:17] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
-[02:54:17] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
-[02:54:17] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
-[02:54:17] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
-[02:54:18] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
-[02:54:18] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
-[02:54:18] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
-[02:54:18] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
-[02:54:18] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
-[02:54:18] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
-[02:54:19] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
-[02:54:19] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
-[02:54:19] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
-[02:54:19] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
-[02:54:20] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
-[02:54:20] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
-[02:54:20] [Server thread/INFO]: NormalyMC fell from a high place
-[02:54:20] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
-[02:54:20] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
-[02:54:25] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
-[02:54:25] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
-[02:55:01] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
-[02:55:01] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
-[02:55:05] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
-[02:55:05] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
-[02:55:08] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
-[02:55:08] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
-[02:55:09] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
-[02:55:09] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
-[02:55:10] [Async Chat Thread - #7/INFO]: [G] _LUDFIXT_ ≫ s
-[02:55:21] [Server thread/INFO]: NormalyMC was shot by _LUDFIXT_
-[02:55:25] [Async Chat Thread - #7/INFO]: [G] _LUDFIXT_ ≫ s
-[02:55:26] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
-[02:55:26] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
-[02:55:46] [Server thread/INFO]: NormalyMC was shot by Skeleton
-[02:55:50] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
-[02:55:50] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
-[02:57:05] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode spectator
-[02:57:05] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Spectator Mode]
-[02:57:18] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode survival
-[02:57:18] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Survival Mode]
-[02:57:19] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode creative
-[02:57:19] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Creative Mode]
-[02:57:22] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode spectator
-[02:57:22] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Spectator Mode]
-[02:57:30] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
-[02:57:30] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
+[21:32:43] [Craft Scheduler Thread - 2 - Kingdoms/INFO]: [Kingdoms] Setting up nations data...
+[21:32:43] [Craft Scheduler Thread - 2 - Kingdoms/INFO]: [Kingdoms] Done, loaded a total of 0 nations. Took 24ms
+[21:32:43] [Craft Scheduler Thread - 2 - Kingdoms/INFO]: [Kingdoms] Setting up kingdoms data...
+[21:32:43] [Craft Scheduler Thread - 2 - Kingdoms/INFO]: [Kingdoms] Done, loaded a total of 1 kingdoms. Took 76ms
+[21:32:43] [Craft Scheduler Thread - 2 - Kingdoms/INFO]: [Kingdoms] Loading lands data...
+[21:32:43] [Craft Scheduler Thread - 2 - Kingdoms/INFO]: [Kingdoms] Done, loaded a total of 1 lands. Took 3ms
+[21:32:43] [Craft Scheduler Thread - 2 - Kingdoms/INFO]: [KingdomsX] Updating top kingdoms... 1
+[21:32:51] [User Authenticator #0/INFO]: UUID of player _LUDFIXT_ is 5d9d5e4d-c81e-34ff-aa45-3dcd8d540d21
+[21:32:55] [Server thread/INFO]: _LUDFIXT_[/[0:0:0:0:0:0:0:1%0]:42572] logged in with entity id 160 at ([world]-1160.817684476328, 38.0, -225.15803893722176)
+[21:32:57] [Craft Scheduler Thread - 2 - Kingdoms/INFO]: _LUDFIXT_ has joined the server.
+[21:33:15] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode spectator
+[21:33:15] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Spectator Mode]
+[21:33:26] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode creative
+[21:33:26] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Creative Mode]
+[21:34:13] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode spectator
+[21:34:13] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Spectator Mode]
+[21:34:22] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode creative
+[21:34:22] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Creative Mode]
+[21:34:33] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode spectator
+[21:34:33] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Spectator Mode]
+[21:34:35] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp 100000 0 100000000
+[21:34:41] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp 1000000000 0 10
+[21:34:44] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp 1000000000 0 1000000000
+[21:34:48] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp 1 0 1000000000
+[21:34:57] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp 50000 0 500
+[21:34:57] [Server thread/INFO]: [_LUDFIXT_: Teleported _LUDFIXT_ to 50000.500000, 0.000000, 500.500000]
+[21:35:00] [Server thread/WARN]: _LUDFIXT_ moved too quickly! 0.0,10.312500617038744,0.0
+[21:36:04] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode creative
+[21:36:04] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Creative Mode]

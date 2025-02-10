@@ -7,18 +7,21 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:deep_cold_ocean": "2025-02-09 23:57:08 +0000",
       "minecraft:cold_ocean": "2025-02-09 23:56:57 +0000",
       "minecraft:beach": "2025-02-09 23:55:42 +0000",
       "minecraft:dark_forest": "2025-02-10 00:01:49 +0000",
       "minecraft:forest": "2025-02-08 20:33:12 +0000",
       "minecraft:taiga": "2025-02-09 23:52:52 +0000",
+      "minecraft:river": "2025-02-09 23:54:38 +0000",
+      "minecraft:lush_caves": "2025-02-10 00:14:11 +0000",
+      "minecraft:dripstone_caves": "2025-02-10 21:35:00 +0000",
+      "minecraft:deep_cold_ocean": "2025-02-09 23:57:08 +0000",
       "minecraft:windswept_forest": "2025-02-10 00:01:46 +0000",
       "minecraft:ocean": "2025-02-10 00:01:42 +0000",
-      "minecraft:river": "2025-02-09 23:54:38 +0000",
       "minecraft:meadow": "2025-02-08 20:33:36 +0000",
       "minecraft:birch_forest": "2025-02-10 00:01:44 +0000",
-      "minecraft:lush_caves": "2025-02-10 00:14:11 +0000"
+      "minecraft:savanna": "2025-02-10 21:35:51 +0000",
+      "minecraft:plains": "2025-02-10 21:35:57 +0000"
     },
     "done": false
   },
@@ -31,8 +34,11 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:cave_spider": "2025-02-10 01:49:14 +0000",
+      "minecraft:skeleton": "2025-02-10 02:55:51 +0000",
+      "minecraft:spider": "2025-02-10 02:56:31 +0000",
       "minecraft:zombie": "2025-02-08 20:35:51 +0000",
-      "minecraft:creeper": "2025-02-08 20:57:30 +0000"
+      "minecraft:creeper": "2025-02-08 20:57:30 +0000",
+      "minecraft:drowned": "2025-02-10 02:54:49 +0000"
     },
     "done": false
   },
@@ -1356,21 +1362,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cake": {
+  "minecraft:recipes/redstone/dispenser": {
     "criteria": {
-      "has_egg": "2025-02-10 02:30:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/coarse_dirt": {
-    "criteria": {
-      "has_gravel": "2025-02-10 02:49:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
-    "criteria": {
-      "has_chicken": "2025-02-10 02:37:01 +0000"
+      "has_bow": "2025-02-10 02:19:12 +0000"
     },
     "done": true
   },
@@ -1392,33 +1386,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_chicken": {
-    "criteria": {
-      "has_chicken": "2025-02-10 02:37:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken_from_smoking": {
-    "criteria": {
-      "has_chicken": "2025-02-10 02:37:01 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-02-10 02:19:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/bred_all_animals": {
-    "criteria": {
-      "minecraft:chicken": "2025-02-10 02:31:33 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/lapis_lazuli": {
-    "criteria": {
-      "has_lapis_block": "2025-02-10 02:42:53 +0000"
     },
     "done": true
   },
@@ -1434,18 +1404,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/shoot_arrow": {
-    "criteria": {
-      "shot_arrow": "2025-02-10 02:48:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dispenser": {
-    "criteria": {
-      "has_bow": "2025-02-10 02:19:12 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2025-02-10 02:19:35 +0000"
@@ -1455,6 +1413,30 @@
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2025-02-10 02:19:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-02-10 02:19:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-02-10 02:30:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:chicken": "2025-02-10 02:31:33 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-02-10 02:31:33 +0000"
     },
     "done": true
   },
@@ -1472,9 +1454,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/oak_button": {
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
-      "has_planks": "2025-02-10 02:19:35 +0000"
+      "has_chicken": "2025-02-10 02:37:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-02-10 02:37:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-02-10 02:37:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2025-02-10 02:42:53 +0000"
     },
     "done": true
   },
@@ -1484,15 +1484,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+  "minecraft:adventure/shoot_arrow": {
     "criteria": {
-      "has_iron_nugget": "2025-02-10 02:49:34 +0000"
+      "shot_arrow": "2025-02-10 02:48:57 +0000"
     },
     "done": true
   },
-  "minecraft:husbandry/breed_an_animal": {
+  "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
-      "bred": "2025-02-10 02:31:33 +0000"
+      "has_gravel": "2025-02-10 02:49:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-02-10 02:49:34 +0000"
     },
     "done": true
   },
