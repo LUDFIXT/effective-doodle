@@ -1,0 +1,53 @@
+
+
+[11:44:06] Starting daily checks services...
+[11:44:06] Timezone: Etc/UTC
+[11:44:06] Cycle time: 12:00
+[11:44:06] Triggered reminder. Next: 09:15:53
+[11:49:31] NormalyMC has joined YamalPEleRonaldo kingdom.
+[11:49:31] A kingdom named YamalPEleRonaldo has been created for NormalyMC
+----------------------------------------------------------
+[11:49:31] Home of kingdom 'YamalPEleRonaldo' (fc6081f7-ec0b-49f7-a050-bb03da511da1) has been changed by NormalyMC from 'null -> Location{world=CraftWorld{name=world},x=50.6,y=120.0,z=17.4,pitch=13.0,yaw=-31.3}
+    java.lang.RuntimeException
+	at KingdomsX-1.16.20.5.jar//org.kingdoms.utils.string.StringUtils.stacktrace(StringUtils.java:714)
+	at KingdomsX-1.16.20.5.jar//org.kingdoms.managers.logger.KingdomsLogger.log(KingdomsLogger.java:107)
+	at KingdomsX-1.16.20.5.jar//org.kingdoms.constants.group.Kingdom.setHome(Kingdom.java:712)
+	at KingdomsX-1.16.20.5.jar//org.kingdoms.constants.group.Kingdom.setHome(Kingdom.java:89)
+	at KingdomsX-1.16.20.5.jar//org.kingdoms.commands.general.home.CommandSetHome.setHome(CommandSetHome.java:40)
+	at KingdomsX-1.16.20.5.jar//org.kingdoms.commands.general.misc.CommandCreate.execute(CommandCreate.java:137)
+	at KingdomsX-1.16.20.5.jar//org.kingdoms.commands.KingdomsCommandHandler.onCommand(KingdomsCommandHandler.java:310)
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45)
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:155)
+	at org.bukkit.craftbukkit.v1_20_R3.CraftServer.dispatchCommand(CraftServer.java:999)
+	at org.bukkit.craftbukkit.v1_20_R3.command.BukkitCommandWrapper.run(BukkitCommandWrapper.java:64)
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73)
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.a(ExecuteCommand.java:31)
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:19)
+	at net.minecraft.commands.execution.UnboundEntryAction.a(UnboundEntryAction.java:8)
+	at net.minecraft.commands.execution.CommandQueueEntry.a(CommandQueueEntry.java:5)
+	at net.minecraft.commands.execution.ExecutionContext.a(ExecutionContext.java:103)
+	at net.minecraft.commands.CommandDispatcher.a(CommandDispatcher.java:434)
+	at net.minecraft.commands.CommandDispatcher.performCommand(CommandDispatcher.java:336)
+	at net.minecraft.commands.CommandDispatcher.a(CommandDispatcher.java:323)
+	at net.minecraft.server.network.PlayerConnection.a(PlayerConnection.java:2230)
+	at net.minecraft.server.network.PlayerConnection.lambda$handleChatCommand$14(PlayerConnection.java:2190)
+	at net.minecraft.util.thread.IAsyncTaskHandler.b(IAsyncTaskHandler.java:59)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at net.minecraft.server.TickTask.run(TickTask.java:18)
+	at net.minecraft.util.thread.IAsyncTaskHandler.d(IAsyncTaskHandler.java:149)
+	at net.minecraft.util.thread.IAsyncTaskHandlerReentrant.d(IAsyncTaskHandlerReentrant.java:24)
+	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1465)
+	at net.minecraft.server.MinecraftServer.d(MinecraftServer.java:194)
+	at net.minecraft.util.thread.IAsyncTaskHandler.x(IAsyncTaskHandler.java:123)
+	at net.minecraft.server.MinecraftServer.bl(MinecraftServer.java:1442)
+	at net.minecraft.server.MinecraftServer.x(MinecraftServer.java:1365)
+	at net.minecraft.util.thread.IAsyncTaskHandler.c(IAsyncTaskHandler.java:133)
+	at net.minecraft.server.MinecraftServer.w_(MinecraftServer.java:1343)
+	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1232)
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:319)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+----------------------------------------------------------
+
+[11:50:13] _LUDFIXT_ has changed their kingdom prueba pacifism state: true
+[11:50:17] _LUDFIXT_ has changed their kingdom prueba pacifism state: false
+[11:51:34] YamalPEleRonaldo has been disbanded for SELF
