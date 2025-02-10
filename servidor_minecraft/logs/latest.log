@@ -107,3 +107,32 @@ Latest Version: v1.17.8-BETA
 [22:12:27] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Spectator Mode]
 [22:12:30] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode creative
 [22:12:30] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Creative Mode]
+[22:24:30] [User Authenticator #1/INFO]: UUID of player NormalyMC is 02c11b1c-41b7-3a20-ae93-3a10dbf5cc38
+[22:24:31] [Server thread/INFO]: NormalyMC[/[0:0:0:0:0:0:0:1%0]:43374] logged in with entity id 2028 at ([world]-1162.7086423594594, 38.0, -227.42199305092996)
+[22:24:32] [Craft Scheduler Thread - 19 - Kingdoms/INFO]: NormalyMC has joined the server.
+[22:24:36] [Server thread/INFO]: _LUDFIXT_ issued server command: /kick NormalyMC kakota, bot, hacks, reach, combat cheats, xray, extorsionador, corrupto
+[22:24:36] [Server thread/INFO]: NormalyMC lost connection: kakota, bot, hacks, reach, combat cheats, xray, extorsionador, corrupto
+[22:24:36] [Server thread/INFO]: NormalyMC has left the server.
+[22:24:36] [Server thread/INFO]: [_LUDFIXT_: Kicked NormalyMC: kakota, bot, hacks, reach, combat cheats, xray, extorsionador, corrupto]
+[22:25:11] [User Authenticator #1/INFO]: UUID of player NormalyMC is 02c11b1c-41b7-3a20-ae93-3a10dbf5cc38
+[22:25:12] [Server thread/INFO]: NormalyMC[/[0:0:0:0:0:0:0:1%0]:54606] logged in with entity id 2327 at ([world]-1162.7086423594594, 38.0, -227.42199305092996)
+[22:25:13] [Craft Scheduler Thread - 17 - Kingdoms/INFO]: NormalyMC has joined the server.
+[22:25:18] [Server thread/INFO]: _LUDFIXT_ issued server command: /kick NormalyMC kakota, bot, hacks, reach, combat cheats, xray, extorsionador, corrupto
+[22:25:18] [Server thread/INFO]: NormalyMC lost connection: kakota, bot, hacks, reach, combat cheats, xray, extorsionador, corrupto
+[22:25:18] [Server thread/INFO]: NormalyMC has left the server.
+[22:25:18] [Server thread/INFO]: [_LUDFIXT_: Kicked NormalyMC: kakota, bot, hacks, reach, combat cheats, xray, extorsionador, corrupto]
+[22:25:27] [User Authenticator #1/INFO]: UUID of player NormalyMC is 02c11b1c-41b7-3a20-ae93-3a10dbf5cc38
+[22:25:28] [Server thread/INFO]: NormalyMC[/[0:0:0:0:0:0:0:1%0]:52256] logged in with entity id 2562 at ([world]-1162.7086423594594, 38.0, -227.42199305092996)
+[22:25:29] [Craft Scheduler Thread - 20 - Kingdoms/INFO]: NormalyMC has joined the server.
+[22:25:44] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
+[22:25:44] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
+[22:26:27] [Server thread/INFO]: NormalyMC lost connection: Timed out
+[22:26:27] [Server thread/INFO]: NormalyMC has left the server.
+[22:26:56] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode spectator
+[22:26:56] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Spectator Mode]
+[22:26:58] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode creative
+[22:26:58] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Creative Mode]
+[22:26:59] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode spectator
+[22:26:59] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Spectator Mode]
+[22:27:01] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode creative
+[22:27:01] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Creative Mode]
