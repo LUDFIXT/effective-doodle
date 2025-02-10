@@ -228,3 +228,7 @@ Latest Version: v1.17.8-BETA
 [02:26:17] [Server thread/INFO]: [_LUDFIXT_: Teleported _LUDFIXT_ to NormalyMC]
 [02:26:18] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode creative
 [02:26:18] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Creative Mode]
+[02:31:33] [Server thread/INFO]: _LUDFIXT_ has made the advancement [The Parrots and the Bats]
+[02:34:43] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC
+[02:34:43] [Server thread/INFO]: [_LUDFIXT_: Teleported _LUDFIXT_ to NormalyMC]
+[02:34:47] [Server thread/INFO]: Named entity EntityChicken['Yisreron'/181, uuid='8ea60c45-50a5-40f1-bcd5-0de1d761c078', l='ServerLevel[world]', x=-1142.93, y=54.92, z=-228.61, cpos=[-72, -15], tl=111178, v=true] died: Yisreron went up in flames

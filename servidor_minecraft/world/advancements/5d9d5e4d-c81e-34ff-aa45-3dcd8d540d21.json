@@ -1356,6 +1356,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-02-10 02:30:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-02-10 02:19:35 +0000"
@@ -1379,6 +1385,12 @@
       "has_planks": "2025-02-10 02:19:35 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:chicken": "2025-02-10 02:31:33 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
@@ -1413,6 +1425,12 @@
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-02-10 02:19:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-02-10 02:31:33 +0000"
     },
     "done": true
   },
