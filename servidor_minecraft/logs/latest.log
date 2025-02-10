@@ -232,3 +232,46 @@ Latest Version: v1.17.8-BETA
 [02:34:43] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC
 [02:34:43] [Server thread/INFO]: [_LUDFIXT_: Teleported _LUDFIXT_ to NormalyMC]
 [02:34:47] [Server thread/INFO]: Named entity EntityChicken['Yisreron'/181, uuid='8ea60c45-50a5-40f1-bcd5-0de1d761c078', l='ServerLevel[world]', x=-1142.93, y=54.92, z=-228.61, cpos=[-72, -15], tl=111178, v=true] died: Yisreron went up in flames
+[02:38:34] [Server thread/INFO]: brosky143 lost connection: Timed out
+[02:38:34] [Server thread/INFO]: brosky143 has left the server.
+[02:38:57] [Server thread/INFO]: _LUDFIXT_ issued server command: /k create redloxbot
+[02:38:59] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:39:07] [Server thread/INFO]: _LUDFIXT_ issued server command: /k invade
+[02:39:11] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode survival
+[02:39:11] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Survival Mode]
+[02:39:13] [Server thread/INFO]: _LUDFIXT_ issued server command: /k invade
+[02:40:05] [Server thread/INFO]: _LUDFIXT_ issued server command: /k invade
+[02:40:07] [Server thread/INFO]: _LUDFIXT_ issued server command: /k invade
+[02:40:21] [Server thread/INFO]: _LUDFIXT_ issued server command: /k invade
+[02:40:27] [Server thread/INFO]: _LUDFIXT_ issued server command: /k disband
+[02:40:31] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode creative
+[02:40:31] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Creative Mode]
+[02:41:16] [Async Chat Thread - #3/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ jj
+[02:41:17] [Server thread/INFO]: _LUDFIXT_ issued server command: /time set day
+[02:41:17] [Server thread/INFO]: [_LUDFIXT_: Set the time to 1000]
+[02:41:17] [Async Chat Thread - #3/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ kk
+[02:41:19] [Async Chat Thread - #3/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ aron
+[02:41:20] [Async Chat Thread - #3/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ kk
+[02:41:21] [Async Chat Thread - #3/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ ktktktk
+[02:41:21] [Async Chat Thread - #3/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ ktktktkt
+[02:41:23] [Async Chat Thread - #3/INFO]: [G]|[♚ YisusPalisus] NormalyMC ≫ kk
+[02:41:26] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
+[02:41:26] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
+[02:41:35] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode survival
+[02:41:35] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Survival Mode]
+[02:41:41] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode creative
+[02:41:41] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Creative Mode]
+[02:41:58] [Server thread/INFO]: NormalyMC issued server command: /k home
+[02:43:01] [Server thread/INFO]: _LUDFIXT_ issued server command: /tp NormalyMC _LUDFIXT_
+[02:43:01] [Server thread/INFO]: [_LUDFIXT_: Teleported NormalyMC to _LUDFIXT_]
+[02:43:15] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode survival
+[02:43:15] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Survival Mode]
+[02:43:28] [Server thread/INFO]: _LUDFIXT_ has made the advancement [Ol' Betsy]
+[02:44:04] [Server thread/INFO]: _LUDFIXT_ issued server command: /kick NormalyMC hacks
+[02:44:04] [Server thread/INFO]: NormalyMC lost connection: hacks
+[02:44:04] [Server thread/INFO]: NormalyMC has left the server.
+[02:44:04] [Server thread/INFO]: [_LUDFIXT_: Kicked NormalyMC: hacks]
+[02:46:54] [User Authenticator #1/INFO]: UUID of player NormalyMC is 02c11b1c-41b7-3a20-ae93-3a10dbf5cc38
+[02:46:55] [Server thread/INFO]: NormalyMC[/[0:0:0:0:0:0:0:1%0]:39172] logged in with entity id 4354 at ([world]-1224.0224744035556, 64.34923770368529, -101.2108244739759)
+[02:46:56] [Craft Scheduler Thread - 68 - Kingdoms/INFO]: NormalyMC has joined the server.
+[02:47:25] [Server thread/INFO]: NormalyMC was slain by _LUDFIXT_
