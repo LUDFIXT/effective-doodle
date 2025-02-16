@@ -172,3 +172,17 @@ Latest Version: v1.17.8-BETA
 [00:51:59] [Server thread/INFO]: _LUDFIXT_ issued server command: //stack southeast
 [00:52:07] [Server thread/INFO]: _LUDFIXT_ issued server command: //stack southeast
 [00:52:14] [Server thread/INFO]: _LUDFIXT_ issued server command: //stack northwest
+[00:53:17] [Server thread/INFO]: _LUDFIXT_ issued server command: //set glass
+[00:53:50] [Server thread/INFO]: _LUDFIXT_ issued server command: //set glass
+[00:53:55] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode spectator
+[00:53:55] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Spectator Mode]
+[00:53:58] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode creative
+[00:53:58] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Creative Mode]
+[00:54:03] [Server thread/INFO]: _LUDFIXT_ issued server command: //set glass
+[00:54:12] [Server thread/INFO]: _LUDFIXT_ issued server command: //set glass
+[00:54:20] [Server thread/INFO]: _LUDFIXT_ issued server command: //set glass
+[00:56:34] [Server thread/INFO]: _LUDFIXT_ issued server command: //copy
+[00:58:56] [Server thread/INFO]: _LUDFIXT_ issued server command: //set grass_block
+[00:59:53] [Server thread/INFO]: _LUDFIXT_ issued server command: //set grass_block
+[01:02:31] [Craft Scheduler Thread - 69 - Kingdoms/INFO]: [Kingdoms] Auto saving... Checking 0 nations, 1 kingdoms, 1 lands and 1 players.
+[01:02:32] [Craft Scheduler Thread - 66 - Kingdoms/INFO]: [KingdomsX] Updating top kingdoms... 1
