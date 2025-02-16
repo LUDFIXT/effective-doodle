@@ -198,3 +198,12 @@ Latest Version: v1.17.8-BETA
 [01:37:37] [Server thread/INFO]: _LUDFIXT_ issued server command: //set glass
 [01:37:51] [Server thread/INFO]: _LUDFIXT_ issued server command: //set glass
 [01:38:09] [Server thread/INFO]: _LUDFIXT_ issued server command: //set glass
+[01:44:46] [Craft Scheduler Thread - 113 - Kingdoms/INFO]: [Kingdoms] Auto saving... Checking 0 nations, 1 kingdoms, 1 lands and 1 players.
+[01:44:47] [Craft Scheduler Thread - 109 - Kingdoms/INFO]: [KingdomsX] Updating top kingdoms... 1
+[01:50:03] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode spectator
+[01:50:03] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Spectator Mode]
+[01:50:09] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode creative
+[01:50:09] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Creative Mode]
+[01:51:01] [Server thread/INFO]: _LUDFIXT_ issued server command: //set deepslate
+[01:53:48] [Server thread/INFO]: _LUDFIXT_ issued server command: //set 90%deepslate 10%luminous
+[01:53:54] [Server thread/INFO]: _LUDFIXT_ issued server command: //set 90%deepslate 10%luminousstone
