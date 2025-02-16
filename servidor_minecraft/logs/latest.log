@@ -222,3 +222,17 @@ Latest Version: v1.17.8-BETA
 [01:58:04] [Server thread/INFO]: Villager EntityVillager['Villager'/5711, uuid='d9e3b7c5-3003-48a7-b49c-fc461da9de69', l='ServerLevel[world]', x=9999826.50, y=106.00, z=-89.50, cpos=[624989, -6], tl=19, v=true] died, message: 'Villager was slain by _LUDFIXT_'
 [01:58:10] [Server thread/INFO]: _LUDFIXT_ has completed the challenge [It Spreads]
 [02:00:42] [Server thread/INFO]: _LUDFIXT_ has made the advancement [Sneak 100]
+[02:04:52] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode spectator
+[02:04:52] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Spectator Mode]
+[02:04:56] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode creative
+[02:04:56] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Creative Mode]
+[02:06:35] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode survival
+[02:06:35] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Survival Mode]
+[02:06:42] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode creative
+[02:06:42] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Creative Mode]
+[02:12:41] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode spectator
+[02:12:41] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Spectator Mode]
+[02:12:45] [Server thread/INFO]: _LUDFIXT_ issued server command: /gamemode creative
+[02:12:45] [Server thread/INFO]: [_LUDFIXT_: Set own game mode to Creative Mode]
+[02:14:46] [Craft Scheduler Thread - 188 - Kingdoms/INFO]: [Kingdoms] Auto saving... Checking 0 nations, 1 kingdoms, 1 lands and 1 players.
+[02:14:47] [Craft Scheduler Thread - 187 - Kingdoms/INFO]: [KingdomsX] Updating top kingdoms... 1
