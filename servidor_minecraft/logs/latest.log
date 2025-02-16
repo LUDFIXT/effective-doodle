@@ -207,3 +207,18 @@ Latest Version: v1.17.8-BETA
 [01:51:01] [Server thread/INFO]: _LUDFIXT_ issued server command: //set deepslate
 [01:53:48] [Server thread/INFO]: _LUDFIXT_ issued server command: //set 90%deepslate 10%luminous
 [01:53:54] [Server thread/INFO]: _LUDFIXT_ issued server command: //set 90%deepslate 10%luminousstone
+[01:54:49] [Server thread/INFO]: _LUDFIXT_ issued server command: /difficulty normal
+[01:54:49] [Server thread/INFO]: [_LUDFIXT_: The difficulty has been set to Normal]
+[01:54:54] [Server thread/INFO]: _LUDFIXT_ issued server command: /difficulty hard
+[01:54:54] [Server thread/INFO]: [_LUDFIXT_: The difficulty has been set to Hard]
+[01:55:26] [Server thread/INFO]: _LUDFIXT_ issued server command: /time set day
+[01:55:26] [Server thread/INFO]: [_LUDFIXT_: Set the time to 1000]
+[01:56:40] [Server thread/INFO]: _LUDFIXT_ issued server command: /effect give _LUDFIXT_ minecraft:strength infinite 255 true
+[01:56:40] [Server thread/INFO]: [_LUDFIXT_: Applied effect Strength to _LUDFIXT_]
+[01:57:11] [Server thread/INFO]: Villager EntityVillager['Villager'/5588, uuid='9c37629c-8274-4cf4-a59c-296eb1d457f8', l='ServerLevel[world]', x=9999826.50, y=106.00, z=-89.50, cpos=[624989, -6], tl=70, v=true] died, message: 'Villager was slain by _LUDFIXT_'
+[01:57:18] [Server thread/INFO]: Villager EntityVillager['Villager'/5606, uuid='112686da-7bb8-456e-b422-15261f4b15db', l='ServerLevel[world]', x=9999826.50, y=106.00, z=-89.50, cpos=[624989, -6], tl=23, v=true] died, message: 'Villager was slain by _LUDFIXT_'
+[01:57:19] [Server thread/INFO]: Villager EntityVillager['Villager'/5607, uuid='b0fd6d69-1c3d-46f6-929c-d731ca561d89', l='ServerLevel[world]', x=9999826.50, y=106.00, z=-89.50, cpos=[624989, -6], tl=13, v=true] died, message: 'Villager was slain by _LUDFIXT_'
+[01:57:22] [Server thread/INFO]: Villager EntityVillager['Villager'/5611, uuid='3ffe28ae-86d6-492f-93be-cf37133b19bc', l='ServerLevel[world]', x=9999826.50, y=106.00, z=-89.50, cpos=[624989, -6], tl=24, v=true] died, message: 'Villager was slain by _LUDFIXT_'
+[01:58:04] [Server thread/INFO]: Villager EntityVillager['Villager'/5711, uuid='d9e3b7c5-3003-48a7-b49c-fc461da9de69', l='ServerLevel[world]', x=9999826.50, y=106.00, z=-89.50, cpos=[624989, -6], tl=19, v=true] died, message: 'Villager was slain by _LUDFIXT_'
+[01:58:10] [Server thread/INFO]: _LUDFIXT_ has completed the challenge [It Spreads]
+[02:00:42] [Server thread/INFO]: _LUDFIXT_ has made the advancement [Sneak 100]
